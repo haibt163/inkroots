@@ -1,0 +1,7731 @@
+[
+  {
+    "id": 1,
+    "character": "一",
+    "pinyin": "yī",
+    "english": "one",
+    "vietnamese": "một",
+    "strokes": 1,
+    "frequency": "core",
+    "icon": "Minus",
+    "writerChar": "一",
+    "story": {
+      "en": "A single horizontal stroke — the horizon, the number one, the start of writing.",
+      "vi": "Một nét ngang — đường chân trời, số một, khởi đầu của chữ viết."
+    },
+    "examples": [
+      {
+        "character": "一个",
+        "pinyin": "yī gè",
+        "english": "one (item)",
+        "vietnamese": "một cái"
+      },
+      {
+        "character": "一起",
+        "pinyin": "yī qǐ",
+        "english": "together",
+        "vietnamese": "cùng nhau"
+      },
+      {
+        "character": "一月",
+        "pinyin": "yī yuè",
+        "english": "January",
+        "vietnamese": "tháng một"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 2,
+    "character": "丨",
+    "pinyin": "gǔn",
+    "english": "line",
+    "vietnamese": "nét sổ",
+    "strokes": 1,
+    "frequency": "rare",
+    "icon": "GripVertical",
+    "writerChar": "中",
+    "story": {
+      "en": "This radical pictures “line”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “nét sổ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "中",
+        "pinyin": "zhōng",
+        "english": "middle",
+        "vietnamese": "giữa"
+      },
+      {
+        "character": "丰",
+        "pinyin": "fēng",
+        "english": "abundant",
+        "vietnamese": "phong phú"
+      },
+      {
+        "character": "旧",
+        "pinyin": "jiù",
+        "english": "old",
+        "vietnamese": "cũ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 3,
+    "character": "丶",
+    "pinyin": "zhǔ",
+    "english": "dot",
+    "vietnamese": "chấm",
+    "strokes": 1,
+    "frequency": "rare",
+    "icon": "Dot",
+    "writerChar": "丸",
+    "story": {
+      "en": "This radical pictures “dot”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chấm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "丸",
+        "pinyin": "wán",
+        "english": "pill",
+        "vietnamese": "viên"
+      },
+      {
+        "character": "主",
+        "pinyin": "zhǔ",
+        "english": "main",
+        "vietnamese": "chủ"
+      },
+      {
+        "character": "太",
+        "pinyin": "tài",
+        "english": "too",
+        "vietnamese": "quá"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 4,
+    "character": "丿",
+    "pinyin": "piě",
+    "english": "slash",
+    "vietnamese": "nét phẩy",
+    "strokes": 1,
+    "frequency": "rare",
+    "icon": "Slash",
+    "writerChar": "川",
+    "story": {
+      "en": "This radical pictures “slash”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “nét phẩy”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "川",
+        "pinyin": "chuān",
+        "english": "river",
+        "vietnamese": "sông"
+      },
+      {
+        "character": "久",
+        "pinyin": "jiǔ",
+        "english": "long time",
+        "vietnamese": "lâu"
+      },
+      {
+        "character": "么",
+        "pinyin": "me",
+        "english": "particle",
+        "vietnamese": "trợ từ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 5,
+    "character": "乙",
+    "pinyin": "yǐ",
+    "english": "second",
+    "vietnamese": "ất",
+    "strokes": 1,
+    "frequency": "rare",
+    "icon": "CornerDownRight",
+    "writerChar": "乙",
+    "story": {
+      "en": "This radical pictures “second”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ất”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "乙",
+        "pinyin": "yǐ",
+        "english": "second (stem)",
+        "vietnamese": "ất"
+      },
+      {
+        "character": "乞",
+        "pinyin": "qǐ",
+        "english": "beg",
+        "vietnamese": "cầu xin"
+      },
+      {
+        "character": "乾",
+        "pinyin": "qián",
+        "english": "dry / qian",
+        "vietnamese": "kiền"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 6,
+    "character": "亅",
+    "pinyin": "jué",
+    "english": "hook",
+    "vietnamese": "móc",
+    "strokes": 1,
+    "frequency": "rare",
+    "icon": "Anchor",
+    "writerChar": "了",
+    "story": {
+      "en": "This radical pictures “hook”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “móc”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "了",
+        "pinyin": "le",
+        "english": "completed",
+        "vietnamese": "rồi"
+      },
+      {
+        "character": "予",
+        "pinyin": "yǔ",
+        "english": "give",
+        "vietnamese": "cho"
+      },
+      {
+        "character": "争",
+        "pinyin": "zhēng",
+        "english": "compete",
+        "vietnamese": "tranh"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 7,
+    "character": "二",
+    "pinyin": "èr",
+    "english": "two",
+    "vietnamese": "hai",
+    "strokes": 2,
+    "frequency": "core",
+    "icon": "Equal",
+    "writerChar": "二",
+    "story": {
+      "en": "This radical pictures “two”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “hai”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "二",
+        "pinyin": "èr",
+        "english": "two",
+        "vietnamese": "hai"
+      },
+      {
+        "character": "些",
+        "pinyin": "xiē",
+        "english": "some",
+        "vietnamese": "vài"
+      },
+      {
+        "character": "五",
+        "pinyin": "wǔ",
+        "english": "five",
+        "vietnamese": "năm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 8,
+    "character": "亠",
+    "pinyin": "tóu",
+    "english": "lid",
+    "vietnamese": "nắp",
+    "strokes": 2,
+    "frequency": "common",
+    "icon": "PanelTop",
+    "writerChar": "京",
+    "story": {
+      "en": "This radical pictures “lid”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “nắp”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "京",
+        "pinyin": "jīng",
+        "english": "capital",
+        "vietnamese": "kinh"
+      },
+      {
+        "character": "夜",
+        "pinyin": "yè",
+        "english": "night",
+        "vietnamese": "đêm"
+      },
+      {
+        "character": "亮",
+        "pinyin": "liàng",
+        "english": "bright",
+        "vietnamese": "sáng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 9,
+    "character": "人",
+    "variant": "亻",
+    "pinyin": "rén",
+    "english": "person",
+    "vietnamese": "người",
+    "strokes": 2,
+    "frequency": "core",
+    "icon": "User",
+    "writerChar": "人",
+    "story": {
+      "en": "A person in profile: head, body, two legs. Standing beside another character it often becomes 亻.",
+      "vi": "Người nhìn nghiêng: đầu, thân, hai chân. Khi đứng bên trái thường viết 亻."
+    },
+    "examples": [
+      {
+        "character": "你",
+        "pinyin": "nǐ",
+        "english": "you",
+        "vietnamese": "bạn"
+      },
+      {
+        "character": "他",
+        "pinyin": "tā",
+        "english": "he",
+        "vietnamese": "anh ấy"
+      },
+      {
+        "character": "人",
+        "pinyin": "rén",
+        "english": "person",
+        "vietnamese": "người"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 10,
+    "character": "儿",
+    "pinyin": "ér",
+    "english": "legs",
+    "vietnamese": "hai chân",
+    "strokes": 2,
+    "frequency": "common",
+    "icon": "PersonStanding",
+    "writerChar": "儿",
+    "story": {
+      "en": "This radical pictures “legs”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “hai chân”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "儿",
+        "pinyin": "ér",
+        "english": "child",
+        "vietnamese": "con"
+      },
+      {
+        "character": "兄",
+        "pinyin": "xiōng",
+        "english": "elder brother",
+        "vietnamese": "anh"
+      },
+      {
+        "character": "光",
+        "pinyin": "guāng",
+        "english": "light",
+        "vietnamese": "ánh sáng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 11,
+    "character": "入",
+    "pinyin": "rù",
+    "english": "enter",
+    "vietnamese": "vào",
+    "strokes": 2,
+    "frequency": "common",
+    "icon": "LogIn",
+    "writerChar": "入",
+    "story": {
+      "en": "This radical pictures “enter”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “vào”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "入",
+        "pinyin": "rù",
+        "english": "enter",
+        "vietnamese": "vào"
+      },
+      {
+        "character": "內",
+        "pinyin": "nèi",
+        "english": "inside",
+        "vietnamese": "trong"
+      },
+      {
+        "character": "全",
+        "pinyin": "quán",
+        "english": "all",
+        "vietnamese": "toàn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 12,
+    "character": "八",
+    "pinyin": "bā",
+    "english": "eight",
+    "vietnamese": "tám",
+    "strokes": 2,
+    "frequency": "core",
+    "icon": "Spline",
+    "writerChar": "八",
+    "story": {
+      "en": "This radical pictures “eight”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tám”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "八",
+        "pinyin": "bā",
+        "english": "eight",
+        "vietnamese": "tám"
+      },
+      {
+        "character": "六",
+        "pinyin": "liù",
+        "english": "six",
+        "vietnamese": "sáu"
+      },
+      {
+        "character": "分",
+        "pinyin": "fēn",
+        "english": "divide",
+        "vietnamese": "chia"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 13,
+    "character": "冂",
+    "pinyin": "jiōng",
+    "english": "down box",
+    "vietnamese": "khung úp",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Frame",
+    "writerChar": "同",
+    "story": {
+      "en": "This radical pictures “down box”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “khung úp”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "同",
+        "pinyin": "tóng",
+        "english": "same",
+        "vietnamese": "cùng"
+      },
+      {
+        "character": "网",
+        "pinyin": "wǎng",
+        "english": "net",
+        "vietnamese": "lưới"
+      },
+      {
+        "character": "再",
+        "pinyin": "zài",
+        "english": "again",
+        "vietnamese": "lại"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 14,
+    "character": "冖",
+    "pinyin": "mì",
+    "english": "cover",
+    "vietnamese": "che",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Cloud",
+    "writerChar": "写",
+    "story": {
+      "en": "This radical pictures “cover”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “che”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "写",
+        "pinyin": "xiě",
+        "english": "write",
+        "vietnamese": "viết"
+      },
+      {
+        "character": "军",
+        "pinyin": "jūn",
+        "english": "army",
+        "vietnamese": "quân"
+      },
+      {
+        "character": "冠",
+        "pinyin": "guān",
+        "english": "crown",
+        "vietnamese": "mũ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 15,
+    "character": "冫",
+    "pinyin": "bīng",
+    "english": "ice",
+    "vietnamese": "băng",
+    "strokes": 2,
+    "frequency": "common",
+    "icon": "Snowflake",
+    "writerChar": "冰",
+    "story": {
+      "en": "This radical pictures “ice”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “băng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "冰",
+        "pinyin": "bīng",
+        "english": "ice",
+        "vietnamese": "băng"
+      },
+      {
+        "character": "冷",
+        "pinyin": "lěng",
+        "english": "cold",
+        "vietnamese": "lạnh"
+      },
+      {
+        "character": "冬",
+        "pinyin": "dōng",
+        "english": "winter",
+        "vietnamese": "mùa đông"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 16,
+    "character": "几",
+    "pinyin": "jī",
+    "english": "table",
+    "vietnamese": "kỷ",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Table",
+    "writerChar": "几",
+    "story": {
+      "en": "This radical pictures “table”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “kỷ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "几",
+        "pinyin": "jǐ",
+        "english": "how many",
+        "vietnamese": "mấy"
+      },
+      {
+        "character": "机",
+        "pinyin": "jī",
+        "english": "machine",
+        "vietnamese": "máy"
+      },
+      {
+        "character": "风",
+        "pinyin": "fēng",
+        "english": "wind",
+        "vietnamese": "gió"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 17,
+    "character": "凵",
+    "pinyin": "qǔ",
+    "english": "open box",
+    "vietnamese": "hộp hở",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "BoxSelect",
+    "writerChar": "凶",
+    "story": {
+      "en": "This radical pictures “open box”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “hộp hở”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "凶",
+        "pinyin": "xiōng",
+        "english": "ominous",
+        "vietnamese": "hung"
+      },
+      {
+        "character": "出",
+        "pinyin": "chū",
+        "english": "exit",
+        "vietnamese": "ra"
+      },
+      {
+        "character": "画",
+        "pinyin": "huà",
+        "english": "draw",
+        "vietnamese": "vẽ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 18,
+    "character": "刀",
+    "variant": "刂",
+    "pinyin": "dāo",
+    "english": "knife",
+    "vietnamese": "dao",
+    "strokes": 2,
+    "frequency": "core",
+    "icon": "Scissors",
+    "writerChar": "刀",
+    "story": {
+      "en": "This radical pictures “knife”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dao”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "刀",
+        "pinyin": "dāo",
+        "english": "knife",
+        "vietnamese": "dao"
+      },
+      {
+        "character": "分",
+        "pinyin": "fēn",
+        "english": "divide",
+        "vietnamese": "chia"
+      },
+      {
+        "character": "别",
+        "pinyin": "bié",
+        "english": "other",
+        "vietnamese": "khác"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 19,
+    "character": "力",
+    "pinyin": "lì",
+    "english": "power",
+    "vietnamese": "sức",
+    "strokes": 2,
+    "frequency": "core",
+    "icon": "Zap",
+    "writerChar": "力",
+    "story": {
+      "en": "This radical pictures “power”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sức”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "力",
+        "pinyin": "lì",
+        "english": "strength",
+        "vietnamese": "sức"
+      },
+      {
+        "character": "功",
+        "pinyin": "gōng",
+        "english": "merit",
+        "vietnamese": "công"
+      },
+      {
+        "character": "男",
+        "pinyin": "nán",
+        "english": "man",
+        "vietnamese": "nam"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 20,
+    "character": "勹",
+    "pinyin": "bāo",
+    "english": "wrap",
+    "vietnamese": "bao",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Gift",
+    "writerChar": "包",
+    "story": {
+      "en": "This radical pictures “wrap”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bao”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "包",
+        "pinyin": "bāo",
+        "english": "wrap",
+        "vietnamese": "bao"
+      },
+      {
+        "character": "句",
+        "pinyin": "jù",
+        "english": "sentence",
+        "vietnamese": "câu"
+      },
+      {
+        "character": "勿",
+        "pinyin": "wù",
+        "english": "do not",
+        "vietnamese": "đừng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 21,
+    "character": "匕",
+    "pinyin": "bǐ",
+    "english": "spoon",
+    "vietnamese": "thìa",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Utensils",
+    "writerChar": "匕",
+    "story": {
+      "en": "This radical pictures “spoon”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thìa”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "匕",
+        "pinyin": "bǐ",
+        "english": "spoon",
+        "vietnamese": "thìa"
+      },
+      {
+        "character": "北",
+        "pinyin": "běi",
+        "english": "north",
+        "vietnamese": "bắc"
+      },
+      {
+        "character": "比",
+        "pinyin": "bǐ",
+        "english": "compare",
+        "vietnamese": "so"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 22,
+    "character": "匚",
+    "pinyin": "fāng",
+    "english": "right open box",
+    "vietnamese": "tủ",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "PanelRightOpen",
+    "writerChar": "匠",
+    "story": {
+      "en": "This radical pictures “right open box”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tủ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "匠",
+        "pinyin": "jiàng",
+        "english": "craftsman",
+        "vietnamese": "thợ"
+      },
+      {
+        "character": "区",
+        "pinyin": "qū",
+        "english": "district",
+        "vietnamese": "khu"
+      },
+      {
+        "character": "医",
+        "pinyin": "yī",
+        "english": "doctor",
+        "vietnamese": "y"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 23,
+    "character": "匸",
+    "pinyin": "xì",
+    "english": "hiding enclosure",
+    "vietnamese": "che giấu",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "SquareDashed",
+    "writerChar": "匹",
+    "story": {
+      "en": "This radical pictures “hiding enclosure”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “che giấu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "匹",
+        "pinyin": "pǐ",
+        "english": "one (horse)",
+        "vietnamese": "con (ngựa)"
+      },
+      {
+        "character": "匿",
+        "pinyin": "nì",
+        "english": "hide",
+        "vietnamese": "ẩn"
+      },
+      {
+        "character": "匪",
+        "pinyin": "fěi",
+        "english": "bandit",
+        "vietnamese": "cướp"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 24,
+    "character": "十",
+    "pinyin": "shí",
+    "english": "ten",
+    "vietnamese": "mười",
+    "strokes": 2,
+    "frequency": "core",
+    "icon": "Hash",
+    "writerChar": "十",
+    "story": {
+      "en": "This radical pictures “ten”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mười”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "十",
+        "pinyin": "shí",
+        "english": "ten",
+        "vietnamese": "mười"
+      },
+      {
+        "character": "千",
+        "pinyin": "qiān",
+        "english": "thousand",
+        "vietnamese": "nghìn"
+      },
+      {
+        "character": "半",
+        "pinyin": "bàn",
+        "english": "half",
+        "vietnamese": "nửa"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 25,
+    "character": "卜",
+    "pinyin": "bǔ",
+    "english": "divination",
+    "vietnamese": "bói",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Eye",
+    "writerChar": "卜",
+    "story": {
+      "en": "This radical pictures “divination”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bói”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "卜",
+        "pinyin": "bǔ",
+        "english": "divine",
+        "vietnamese": "bói"
+      },
+      {
+        "character": "占",
+        "pinyin": "zhān",
+        "english": "occupy",
+        "vietnamese": "chiếm"
+      },
+      {
+        "character": "外",
+        "pinyin": "wài",
+        "english": "outside",
+        "vietnamese": "ngoài"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 26,
+    "character": "卩",
+    "pinyin": "jié",
+    "english": "seal",
+    "vietnamese": "ấn",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Stamp",
+    "writerChar": "卫",
+    "story": {
+      "en": "This radical pictures “seal”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ấn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "卫",
+        "pinyin": "wèi",
+        "english": "guard",
+        "vietnamese": "vệ"
+      },
+      {
+        "character": "印",
+        "pinyin": "yìn",
+        "english": "seal",
+        "vietnamese": "ấn"
+      },
+      {
+        "character": "却",
+        "pinyin": "què",
+        "english": "however",
+        "vietnamese": "nhưng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 27,
+    "character": "厂",
+    "pinyin": "hàn",
+    "english": "cliff",
+    "vietnamese": "vách đá",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Mountain",
+    "writerChar": "厅",
+    "story": {
+      "en": "This radical pictures “cliff”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “vách đá”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "厅",
+        "pinyin": "tīng",
+        "english": "hall",
+        "vietnamese": "sảnh"
+      },
+      {
+        "character": "历",
+        "pinyin": "lì",
+        "english": "history",
+        "vietnamese": "lịch"
+      },
+      {
+        "character": "厚",
+        "pinyin": "hòu",
+        "english": "thick",
+        "vietnamese": "dày"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 28,
+    "character": "厶",
+    "pinyin": "sī",
+    "english": "private",
+    "vietnamese": "riêng",
+    "strokes": 2,
+    "frequency": "rare",
+    "icon": "Lock",
+    "writerChar": "去",
+    "story": {
+      "en": "This radical pictures “private”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “riêng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "去",
+        "pinyin": "qù",
+        "english": "go",
+        "vietnamese": "đi"
+      },
+      {
+        "character": "公",
+        "pinyin": "gōng",
+        "english": "public",
+        "vietnamese": "công"
+      },
+      {
+        "character": "台",
+        "pinyin": "tái",
+        "english": "platform",
+        "vietnamese": "đài"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 29,
+    "character": "又",
+    "pinyin": "yòu",
+    "english": "again",
+    "vietnamese": "lại",
+    "strokes": 2,
+    "frequency": "common",
+    "icon": "Redo2",
+    "writerChar": "又",
+    "story": {
+      "en": "This radical pictures “again”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lại”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "又",
+        "pinyin": "yòu",
+        "english": "again",
+        "vietnamese": "lại"
+      },
+      {
+        "character": "友",
+        "pinyin": "yǒu",
+        "english": "friend",
+        "vietnamese": "bạn"
+      },
+      {
+        "character": "对",
+        "pinyin": "duì",
+        "english": "correct",
+        "vietnamese": "đúng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 30,
+    "character": "口",
+    "pinyin": "kǒu",
+    "english": "mouth",
+    "vietnamese": "miệng",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "MessageCircle",
+    "writerChar": "口",
+    "story": {
+      "en": "An open mouth. Characters with 口 talk, eat, shout, or name things you say.",
+      "vi": "Một cái miệng mở. Chữ có 口 thường nói, ăn, gọi, hoặc đặt tên."
+    },
+    "examples": [
+      {
+        "character": "口",
+        "pinyin": "kǒu",
+        "english": "mouth",
+        "vietnamese": "miệng"
+      },
+      {
+        "character": "吃",
+        "pinyin": "chī",
+        "english": "eat",
+        "vietnamese": "ăn"
+      },
+      {
+        "character": "叫",
+        "pinyin": "jiào",
+        "english": "call",
+        "vietnamese": "gọi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 31,
+    "character": "囗",
+    "pinyin": "wéi",
+    "english": "enclosure",
+    "vietnamese": "khung vuông",
+    "strokes": 3,
+    "frequency": "common",
+    "icon": "Square",
+    "writerChar": "囗",
+    "story": {
+      "en": "This radical pictures “enclosure”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “khung vuông”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "国",
+        "pinyin": "guó",
+        "english": "country",
+        "vietnamese": "nước"
+      },
+      {
+        "character": "回",
+        "pinyin": "huí",
+        "english": "return",
+        "vietnamese": "về"
+      },
+      {
+        "character": "园",
+        "pinyin": "yuán",
+        "english": "garden",
+        "vietnamese": "vườn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 32,
+    "character": "土",
+    "pinyin": "tǔ",
+    "english": "earth",
+    "vietnamese": "đất",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "Mountain",
+    "writerChar": "土",
+    "story": {
+      "en": "A lump of earth, the ground underfoot. Plants, places, and buildings grow from 土.",
+      "vi": "Một nắm đất. Cây, chỗ, nhà cửa đều mọc lên từ 土."
+    },
+    "examples": [
+      {
+        "character": "土",
+        "pinyin": "tǔ",
+        "english": "earth",
+        "vietnamese": "đất"
+      },
+      {
+        "character": "地",
+        "pinyin": "dì",
+        "english": "ground",
+        "vietnamese": "đất"
+      },
+      {
+        "character": "坐",
+        "pinyin": "zuò",
+        "english": "sit",
+        "vietnamese": "ngồi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 33,
+    "character": "士",
+    "pinyin": "shì",
+    "english": "scholar",
+    "vietnamese": "sĩ",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "GraduationCap",
+    "writerChar": "士",
+    "story": {
+      "en": "This radical pictures “scholar”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sĩ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "士",
+        "pinyin": "shì",
+        "english": "scholar",
+        "vietnamese": "sĩ"
+      },
+      {
+        "character": "壮",
+        "pinyin": "zhuàng",
+        "english": "strong",
+        "vietnamese": "tráng"
+      },
+      {
+        "character": "声",
+        "pinyin": "shēng",
+        "english": "sound",
+        "vietnamese": "thanh"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 34,
+    "character": "夂",
+    "pinyin": "zhǐ",
+    "english": "go",
+    "vietnamese": "đi",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "MoveDownRight",
+    "writerChar": "各",
+    "story": {
+      "en": "This radical pictures “go”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "各",
+        "pinyin": "gè",
+        "english": "each",
+        "vietnamese": "mỗi"
+      },
+      {
+        "character": "冬",
+        "pinyin": "dōng",
+        "english": "winter",
+        "vietnamese": "đông"
+      },
+      {
+        "character": "条",
+        "pinyin": "tiáo",
+        "english": "strip",
+        "vietnamese": "điều"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 35,
+    "character": "夊",
+    "pinyin": "suī",
+    "english": "go slowly",
+    "vietnamese": "đi chậm",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Footprints",
+    "writerChar": "复",
+    "story": {
+      "en": "This radical pictures “go slowly”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đi chậm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "复",
+        "pinyin": "fù",
+        "english": "again",
+        "vietnamese": "phục"
+      },
+      {
+        "character": "夏",
+        "pinyin": "xià",
+        "english": "summer",
+        "vietnamese": "hè"
+      },
+      {
+        "character": "麦",
+        "pinyin": "mài",
+        "english": "wheat",
+        "vietnamese": "lúa mì"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 36,
+    "character": "夕",
+    "pinyin": "xī",
+    "english": "evening",
+    "vietnamese": "chạng vạng",
+    "strokes": 3,
+    "frequency": "common",
+    "icon": "MoonStar",
+    "writerChar": "夕",
+    "story": {
+      "en": "This radical pictures “evening”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chạng vạng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "夕",
+        "pinyin": "xī",
+        "english": "evening",
+        "vietnamese": "chiều"
+      },
+      {
+        "character": "多",
+        "pinyin": "duō",
+        "english": "many",
+        "vietnamese": "nhiều"
+      },
+      {
+        "character": "外",
+        "pinyin": "wài",
+        "english": "outside",
+        "vietnamese": "ngoài"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 37,
+    "character": "大",
+    "pinyin": "dà",
+    "english": "big",
+    "vietnamese": "lớn",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "Maximize2",
+    "writerChar": "大",
+    "story": {
+      "en": "This radical pictures “big”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lớn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "大",
+        "pinyin": "dà",
+        "english": "big",
+        "vietnamese": "lớn"
+      },
+      {
+        "character": "太",
+        "pinyin": "tài",
+        "english": "too",
+        "vietnamese": "quá"
+      },
+      {
+        "character": "天",
+        "pinyin": "tiān",
+        "english": "sky",
+        "vietnamese": "trời"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 38,
+    "character": "女",
+    "pinyin": "nǚ",
+    "english": "woman",
+    "vietnamese": "nữ",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "UserRound",
+    "writerChar": "女",
+    "story": {
+      "en": "Kneeling figure of a woman. Many family and feeling words keep her on the left.",
+      "vi": "Dáng người nữ quỳ. Nhiều chữ về gia đình và cảm xúc giữ 女 bên trái."
+    },
+    "examples": [
+      {
+        "character": "女",
+        "pinyin": "nǚ",
+        "english": "woman",
+        "vietnamese": "nữ"
+      },
+      {
+        "character": "好",
+        "pinyin": "hǎo",
+        "english": "good",
+        "vietnamese": "tốt"
+      },
+      {
+        "character": "妈",
+        "pinyin": "mā",
+        "english": "mom",
+        "vietnamese": "mẹ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 39,
+    "character": "子",
+    "pinyin": "zǐ",
+    "english": "child",
+    "vietnamese": "con",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "Baby",
+    "writerChar": "子",
+    "story": {
+      "en": "This radical pictures “child”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “con”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "子",
+        "pinyin": "zǐ",
+        "english": "child",
+        "vietnamese": "con"
+      },
+      {
+        "character": "学",
+        "pinyin": "xué",
+        "english": "study",
+        "vietnamese": "học"
+      },
+      {
+        "character": "字",
+        "pinyin": "zì",
+        "english": "character",
+        "vietnamese": "chữ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 40,
+    "character": "宀",
+    "pinyin": "mián",
+    "english": "roof",
+    "vietnamese": "mái nhà",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "Home",
+    "writerChar": "家",
+    "story": {
+      "en": "This radical pictures “roof”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mái nhà”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "家",
+        "pinyin": "jiā",
+        "english": "home",
+        "vietnamese": "nhà"
+      },
+      {
+        "character": "安",
+        "pinyin": "ān",
+        "english": "peace",
+        "vietnamese": "an"
+      },
+      {
+        "character": "字",
+        "pinyin": "zì",
+        "english": "character",
+        "vietnamese": "chữ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 41,
+    "character": "寸",
+    "pinyin": "cùn",
+    "english": "inch",
+    "vietnamese": "tấc",
+    "strokes": 3,
+    "frequency": "common",
+    "icon": "Ruler",
+    "writerChar": "寸",
+    "story": {
+      "en": "This radical pictures “inch”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tấc”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "寸",
+        "pinyin": "cùn",
+        "english": "inch",
+        "vietnamese": "tấc"
+      },
+      {
+        "character": "对",
+        "pinyin": "duì",
+        "english": "correct",
+        "vietnamese": "đúng"
+      },
+      {
+        "character": "射",
+        "pinyin": "shè",
+        "english": "shoot",
+        "vietnamese": "bắn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 42,
+    "character": "小",
+    "pinyin": "xiǎo",
+    "english": "small",
+    "vietnamese": "nhỏ",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "Minimize2",
+    "writerChar": "小",
+    "story": {
+      "en": "This radical pictures “small”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “nhỏ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "小",
+        "pinyin": "xiǎo",
+        "english": "small",
+        "vietnamese": "nhỏ"
+      },
+      {
+        "character": "少",
+        "pinyin": "shǎo",
+        "english": "few",
+        "vietnamese": "ít"
+      },
+      {
+        "character": "尖",
+        "pinyin": "jiān",
+        "english": "sharp",
+        "vietnamese": "nhọn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 43,
+    "character": "尢",
+    "pinyin": "wāng",
+    "english": "lame",
+    "vietnamese": "què",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Accessibility",
+    "writerChar": "尤",
+    "story": {
+      "en": "This radical pictures “lame”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “què”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "尤",
+        "pinyin": "yóu",
+        "english": "especially",
+        "vietnamese": "đặc biệt"
+      },
+      {
+        "character": "就",
+        "pinyin": "jiù",
+        "english": "then",
+        "vietnamese": "thì"
+      },
+      {
+        "character": "优",
+        "pinyin": "yōu",
+        "english": "excellent",
+        "vietnamese": "ưu"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 44,
+    "character": "尸",
+    "pinyin": "shī",
+    "english": "corpse",
+    "vietnamese": "thây",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "UserX",
+    "writerChar": "尸",
+    "story": {
+      "en": "This radical pictures “corpse”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thây”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "尸",
+        "pinyin": "shī",
+        "english": "corpse",
+        "vietnamese": "thây"
+      },
+      {
+        "character": "尽",
+        "pinyin": "jìn",
+        "english": "exhaust",
+        "vietnamese": "hết"
+      },
+      {
+        "character": "屋",
+        "pinyin": "wū",
+        "english": "house",
+        "vietnamese": "nhà"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 45,
+    "character": "屮",
+    "pinyin": "chè",
+    "english": "sprout",
+    "vietnamese": "mầm",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Sprout",
+    "writerChar": "出",
+    "story": {
+      "en": "This radical pictures “sprout”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mầm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "出",
+        "pinyin": "chū",
+        "english": "go out",
+        "vietnamese": "ra"
+      },
+      {
+        "character": "屯",
+        "pinyin": "tún",
+        "english": "village",
+        "vietnamese": "đồn"
+      },
+      {
+        "character": "屰",
+        "pinyin": "nì",
+        "english": "rebellious",
+        "vietnamese": "nghịch"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 46,
+    "character": "山",
+    "pinyin": "shān",
+    "english": "mountain",
+    "vietnamese": "núi",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "Mountain",
+    "writerChar": "山",
+    "story": {
+      "en": "This radical pictures “mountain”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “núi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "山",
+        "pinyin": "shān",
+        "english": "mountain",
+        "vietnamese": "núi"
+      },
+      {
+        "character": "岛",
+        "pinyin": "dǎo",
+        "english": "island",
+        "vietnamese": "đảo"
+      },
+      {
+        "character": "岁",
+        "pinyin": "suì",
+        "english": "years old",
+        "vietnamese": "tuổi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 47,
+    "character": "巛",
+    "pinyin": "chuān",
+    "english": "river",
+    "vietnamese": "sông",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Waves",
+    "writerChar": "巡",
+    "story": {
+      "en": "This radical pictures “river”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sông”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "川",
+        "pinyin": "chuān",
+        "english": "river",
+        "vietnamese": "sông"
+      },
+      {
+        "character": "州",
+        "pinyin": "zhōu",
+        "english": "prefecture",
+        "vietnamese": "châu"
+      },
+      {
+        "character": "巡",
+        "pinyin": "xún",
+        "english": "patrol",
+        "vietnamese": "tuần"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 48,
+    "character": "工",
+    "pinyin": "gōng",
+    "english": "work",
+    "vietnamese": "thợ",
+    "strokes": 3,
+    "frequency": "common",
+    "icon": "Hammer",
+    "writerChar": "工",
+    "story": {
+      "en": "This radical pictures “work”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thợ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "工",
+        "pinyin": "gōng",
+        "english": "work",
+        "vietnamese": "công"
+      },
+      {
+        "character": "左",
+        "pinyin": "zuǒ",
+        "english": "left",
+        "vietnamese": "trái"
+      },
+      {
+        "character": "巧",
+        "pinyin": "qiǎo",
+        "english": "skillful",
+        "vietnamese": "khéo"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 49,
+    "character": "己",
+    "pinyin": "jǐ",
+    "english": "oneself",
+    "vietnamese": "mình",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "ScanFace",
+    "writerChar": "己",
+    "story": {
+      "en": "This radical pictures “oneself”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mình”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "己",
+        "pinyin": "jǐ",
+        "english": "self",
+        "vietnamese": "mình"
+      },
+      {
+        "character": "已",
+        "pinyin": "yǐ",
+        "english": "already",
+        "vietnamese": "đã"
+      },
+      {
+        "character": "记",
+        "pinyin": "jì",
+        "english": "remember",
+        "vietnamese": "nhớ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 50,
+    "character": "巾",
+    "pinyin": "jīn",
+    "english": "cloth",
+    "vietnamese": "khăn",
+    "strokes": 3,
+    "frequency": "core",
+    "icon": "Scroll",
+    "writerChar": "巾",
+    "story": {
+      "en": "This radical pictures “cloth”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “khăn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "巾",
+        "pinyin": "jīn",
+        "english": "cloth",
+        "vietnamese": "khăn"
+      },
+      {
+        "character": "市",
+        "pinyin": "shì",
+        "english": "city",
+        "vietnamese": "chợ"
+      },
+      {
+        "character": "布",
+        "pinyin": "bù",
+        "english": "cloth",
+        "vietnamese": "vải"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 51,
+    "character": "干",
+    "pinyin": "gān",
+    "english": "dry",
+    "vietnamese": "khô",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Sun",
+    "writerChar": "干",
+    "story": {
+      "en": "This radical pictures “dry”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “khô”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "干",
+        "pinyin": "gān",
+        "english": "dry",
+        "vietnamese": "khô"
+      },
+      {
+        "character": "平",
+        "pinyin": "píng",
+        "english": "flat",
+        "vietnamese": "phẳng"
+      },
+      {
+        "character": "年",
+        "pinyin": "nián",
+        "english": "year",
+        "vietnamese": "năm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 52,
+    "character": "幺",
+    "pinyin": "yāo",
+    "english": "short thread",
+    "vietnamese": "sợi nhỏ",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Baseline",
+    "writerChar": "幻",
+    "story": {
+      "en": "This radical pictures “short thread”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sợi nhỏ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "幻",
+        "pinyin": "huàn",
+        "english": "illusion",
+        "vietnamese": "ảo"
+      },
+      {
+        "character": "幼",
+        "pinyin": "yòu",
+        "english": "young",
+        "vietnamese": "trẻ"
+      },
+      {
+        "character": "幽",
+        "pinyin": "yōu",
+        "english": "secluded",
+        "vietnamese": "u"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 53,
+    "character": "广",
+    "pinyin": "yǎn",
+    "english": "dotted cliff",
+    "vietnamese": "mái che",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Store",
+    "writerChar": "广",
+    "story": {
+      "en": "This radical pictures “dotted cliff”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mái che”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "广",
+        "pinyin": "guǎng",
+        "english": "wide",
+        "vietnamese": "rộng"
+      },
+      {
+        "character": "店",
+        "pinyin": "diàn",
+        "english": "shop",
+        "vietnamese": "tiệm"
+      },
+      {
+        "character": "床",
+        "pinyin": "chuáng",
+        "english": "bed",
+        "vietnamese": "giường"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 54,
+    "character": "廴",
+    "pinyin": "yǐn",
+    "english": "long stride",
+    "vietnamese": "bước dài",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "StretchHorizontal",
+    "writerChar": "建",
+    "story": {
+      "en": "This radical pictures “long stride”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bước dài”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "建",
+        "pinyin": "jiàn",
+        "english": "build",
+        "vietnamese": "xây"
+      },
+      {
+        "character": "延",
+        "pinyin": "yán",
+        "english": "extend",
+        "vietnamese": "kéo dài"
+      },
+      {
+        "character": "廷",
+        "pinyin": "tíng",
+        "english": "court",
+        "vietnamese": "đình"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 55,
+    "character": "廾",
+    "pinyin": "gǒng",
+    "english": "two hands",
+    "vietnamese": "chắp tay",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Hand",
+    "writerChar": "开",
+    "story": {
+      "en": "This radical pictures “two hands”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chắp tay”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "开",
+        "pinyin": "kāi",
+        "english": "open",
+        "vietnamese": "mở"
+      },
+      {
+        "character": "弄",
+        "pinyin": "nòng",
+        "english": "alley",
+        "vietnamese": "ngõ"
+      },
+      {
+        "character": "弁",
+        "pinyin": "biàn",
+        "english": "cap",
+        "vietnamese": "mũ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 56,
+    "character": "弋",
+    "pinyin": "yì",
+    "english": "shoot",
+    "vietnamese": "bắn",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Target",
+    "writerChar": "式",
+    "story": {
+      "en": "This radical pictures “shoot”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bắn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "式",
+        "pinyin": "shì",
+        "english": "style",
+        "vietnamese": "thức"
+      },
+      {
+        "character": "武",
+        "pinyin": "wǔ",
+        "english": "martial",
+        "vietnamese": "võ"
+      },
+      {
+        "character": "代",
+        "pinyin": "dài",
+        "english": "era",
+        "vietnamese": "đại"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 57,
+    "character": "弓",
+    "pinyin": "gōng",
+    "english": "bow",
+    "vietnamese": "cung",
+    "strokes": 3,
+    "frequency": "common",
+    "icon": "MoveUpRight",
+    "writerChar": "弓",
+    "story": {
+      "en": "This radical pictures “bow”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cung”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "弓",
+        "pinyin": "gōng",
+        "english": "bow",
+        "vietnamese": "cung"
+      },
+      {
+        "character": "张",
+        "pinyin": "zhāng",
+        "english": "open / sheet",
+        "vietnamese": "trương"
+      },
+      {
+        "character": "弟",
+        "pinyin": "dì",
+        "english": "younger brother",
+        "vietnamese": "em trai"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 58,
+    "character": "彐",
+    "pinyin": "jì",
+    "english": "snout",
+    "vietnamese": "mõm",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Bone",
+    "writerChar": "雪",
+    "story": {
+      "en": "This radical pictures “snout”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mõm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "雪",
+        "pinyin": "xuě",
+        "english": "snow",
+        "vietnamese": "tuyết"
+      },
+      {
+        "character": "寻",
+        "pinyin": "xún",
+        "english": "seek",
+        "vietnamese": "tìm"
+      },
+      {
+        "character": "当",
+        "pinyin": "dāng",
+        "english": "as",
+        "vietnamese": "đương"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 59,
+    "character": "彡",
+    "pinyin": "shān",
+    "english": "bristle",
+    "vietnamese": "lông",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Wind",
+    "writerChar": "衫",
+    "story": {
+      "en": "This radical pictures “bristle”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lông”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "衫",
+        "pinyin": "shān",
+        "english": "shirt",
+        "vietnamese": "áo"
+      },
+      {
+        "character": "须",
+        "pinyin": "xū",
+        "english": "must",
+        "vietnamese": "phải"
+      },
+      {
+        "character": "形",
+        "pinyin": "xíng",
+        "english": "shape",
+        "vietnamese": "hình"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 60,
+    "character": "彳",
+    "pinyin": "chì",
+    "english": "step",
+    "vietnamese": "bước",
+    "strokes": 3,
+    "frequency": "rare",
+    "icon": "Footprints",
+    "writerChar": "行",
+    "story": {
+      "en": "This radical pictures “step”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bước”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "行",
+        "pinyin": "xíng",
+        "english": "walk",
+        "vietnamese": "đi"
+      },
+      {
+        "character": "得",
+        "pinyin": "dé",
+        "english": "get",
+        "vietnamese": "được"
+      },
+      {
+        "character": "很",
+        "pinyin": "hěn",
+        "english": "very",
+        "vietnamese": "rất"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 61,
+    "character": "心",
+    "variant": "忄",
+    "pinyin": "xīn",
+    "english": "heart",
+    "vietnamese": "tim",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Heart",
+    "writerChar": "心",
+    "story": {
+      "en": "The heart, sometimes written 忄 on the left. Feelings, thoughts, and will live here.",
+      "vi": "Trái tim, khi đứng bên trái viết 忄. Cảm xúc, suy nghĩ, ý chí ở đây."
+    },
+    "examples": [
+      {
+        "character": "心",
+        "pinyin": "xīn",
+        "english": "heart",
+        "vietnamese": "tim"
+      },
+      {
+        "character": "想",
+        "pinyin": "xiǎng",
+        "english": "think",
+        "vietnamese": "nghĩ"
+      },
+      {
+        "character": "忙",
+        "pinyin": "máng",
+        "english": "busy",
+        "vietnamese": "bận"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 62,
+    "character": "戈",
+    "pinyin": "gē",
+    "english": "halberd",
+    "vietnamese": "mâu",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "Swords",
+    "writerChar": "戈",
+    "story": {
+      "en": "This radical pictures “halberd”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mâu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "我",
+        "pinyin": "wǒ",
+        "english": "I",
+        "vietnamese": "tôi"
+      },
+      {
+        "character": "成",
+        "pinyin": "chéng",
+        "english": "become",
+        "vietnamese": "thành"
+      },
+      {
+        "character": "战",
+        "pinyin": "zhàn",
+        "english": "war",
+        "vietnamese": "chiến"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 63,
+    "character": "戶",
+    "simplified": "户",
+    "pinyin": "hù",
+    "english": "door",
+    "vietnamese": "cửa",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "DoorOpen",
+    "writerChar": "戶",
+    "story": {
+      "en": "This radical pictures “door”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cửa”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "房",
+        "pinyin": "fáng",
+        "english": "room",
+        "vietnamese": "phòng"
+      },
+      {
+        "character": "所",
+        "pinyin": "suǒ",
+        "english": "place",
+        "vietnamese": "nơi"
+      },
+      {
+        "character": "户",
+        "pinyin": "hù",
+        "english": "household",
+        "vietnamese": "hộ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 64,
+    "character": "手",
+    "variant": "扌",
+    "pinyin": "shǒu",
+    "english": "hand",
+    "vietnamese": "tay",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Hand",
+    "writerChar": "手",
+    "story": {
+      "en": "A hand with fingers. As 扌 on the left it turns a character into an action you do.",
+      "vi": "Một bàn tay. Dạng 扌 bên trái biến chữ thành hành động."
+    },
+    "examples": [
+      {
+        "character": "手",
+        "pinyin": "shǒu",
+        "english": "hand",
+        "vietnamese": "tay"
+      },
+      {
+        "character": "打",
+        "pinyin": "dǎ",
+        "english": "hit",
+        "vietnamese": "đánh"
+      },
+      {
+        "character": "拿",
+        "pinyin": "ná",
+        "english": "take",
+        "vietnamese": "cầm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 65,
+    "character": "支",
+    "pinyin": "zhī",
+    "english": "branch",
+    "vietnamese": "nhánh",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "GitBranch",
+    "writerChar": "支",
+    "story": {
+      "en": "This radical pictures “branch”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “nhánh”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "支",
+        "pinyin": "zhī",
+        "english": "branch",
+        "vietnamese": "chi"
+      },
+      {
+        "character": "技",
+        "pinyin": "jì",
+        "english": "skill",
+        "vietnamese": "kỹ"
+      },
+      {
+        "character": "鼓",
+        "pinyin": "gǔ",
+        "english": "drum",
+        "vietnamese": "trống"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 66,
+    "character": "攴",
+    "variant": "攵",
+    "pinyin": "pū",
+    "english": "rap",
+    "vietnamese": "gõ",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Pencil",
+    "writerChar": "放",
+    "story": {
+      "en": "This radical pictures “rap”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “gõ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "放",
+        "pinyin": "fàng",
+        "english": "release",
+        "vietnamese": "thả"
+      },
+      {
+        "character": "收",
+        "pinyin": "shōu",
+        "english": "receive",
+        "vietnamese": "thu"
+      },
+      {
+        "character": "教",
+        "pinyin": "jiào",
+        "english": "teach",
+        "vietnamese": "dạy"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 67,
+    "character": "文",
+    "pinyin": "wén",
+    "english": "script",
+    "vietnamese": "văn",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "BookOpen",
+    "writerChar": "文",
+    "story": {
+      "en": "This radical pictures “script”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “văn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "文",
+        "pinyin": "wén",
+        "english": "writing",
+        "vietnamese": "văn"
+      },
+      {
+        "character": "这",
+        "pinyin": "zhè",
+        "english": "this",
+        "vietnamese": "này"
+      },
+      {
+        "character": "对",
+        "pinyin": "duì",
+        "english": "correct",
+        "vietnamese": "đúng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 68,
+    "character": "斗",
+    "pinyin": "dǒu",
+    "english": "dipper",
+    "vietnamese": "đấu",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Scale",
+    "writerChar": "斗",
+    "story": {
+      "en": "This radical pictures “dipper”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đấu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "斗",
+        "pinyin": "dǒu",
+        "english": "dipper",
+        "vietnamese": "đấu"
+      },
+      {
+        "character": "料",
+        "pinyin": "liào",
+        "english": "material",
+        "vietnamese": "liệu"
+      },
+      {
+        "character": "斜",
+        "pinyin": "xié",
+        "english": "slanted",
+        "vietnamese": "nghiêng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 69,
+    "character": "斤",
+    "pinyin": "jīn",
+    "english": "axe",
+    "vietnamese": "rìu",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "Axe",
+    "writerChar": "斤",
+    "story": {
+      "en": "This radical pictures “axe”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “rìu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "斤",
+        "pinyin": "jīn",
+        "english": "catty / axe",
+        "vietnamese": "cân"
+      },
+      {
+        "character": "新",
+        "pinyin": "xīn",
+        "english": "new",
+        "vietnamese": "mới"
+      },
+      {
+        "character": "听",
+        "pinyin": "tīng",
+        "english": "listen",
+        "vietnamese": "nghe"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 70,
+    "character": "方",
+    "pinyin": "fāng",
+    "english": "square",
+    "vietnamese": "phương",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "Box",
+    "writerChar": "方",
+    "story": {
+      "en": "This radical pictures “square”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “phương”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "方",
+        "pinyin": "fāng",
+        "english": "square",
+        "vietnamese": "phương"
+      },
+      {
+        "character": "放",
+        "pinyin": "fàng",
+        "english": "put",
+        "vietnamese": "đặt"
+      },
+      {
+        "character": "旅",
+        "pinyin": "lǚ",
+        "english": "travel",
+        "vietnamese": "du lịch"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 71,
+    "character": "无",
+    "pinyin": "wú",
+    "english": "not",
+    "vietnamese": "không",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Ban",
+    "writerChar": "无",
+    "story": {
+      "en": "This radical pictures “not”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “không”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "无",
+        "pinyin": "wú",
+        "english": "without",
+        "vietnamese": "không"
+      },
+      {
+        "character": "既",
+        "pinyin": "jì",
+        "english": "already",
+        "vietnamese": "đã"
+      },
+      {
+        "character": "天",
+        "pinyin": "tiān",
+        "english": "heaven",
+        "vietnamese": "trời"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 72,
+    "character": "日",
+    "pinyin": "rì",
+    "english": "sun",
+    "vietnamese": "mặt trời",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Sun",
+    "writerChar": "日",
+    "story": {
+      "en": "A circle with a mark — the sun, and also 'day'. Time-words glow with 日.",
+      "vi": "Hình tròn có điểm — mặt trời, cũng là 'ngày'. Chữ về thời gian mang 日."
+    },
+    "examples": [
+      {
+        "character": "日",
+        "pinyin": "rì",
+        "english": "sun / day",
+        "vietnamese": "ngày"
+      },
+      {
+        "character": "明",
+        "pinyin": "míng",
+        "english": "bright",
+        "vietnamese": "sáng"
+      },
+      {
+        "character": "时",
+        "pinyin": "shí",
+        "english": "time",
+        "vietnamese": "thời"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 73,
+    "character": "曰",
+    "pinyin": "yuē",
+    "english": "say",
+    "vietnamese": "nói",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Quote",
+    "writerChar": "曰",
+    "story": {
+      "en": "This radical pictures “say”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “nói”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "曰",
+        "pinyin": "yuē",
+        "english": "say",
+        "vietnamese": "nói"
+      },
+      {
+        "character": "更",
+        "pinyin": "gèng",
+        "english": "more",
+        "vietnamese": "hơn"
+      },
+      {
+        "character": "曹",
+        "pinyin": "cáo",
+        "english": "a surname",
+        "vietnamese": "Tào"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 74,
+    "character": "月",
+    "pinyin": "yuè",
+    "english": "moon",
+    "vietnamese": "mặt trăng",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Moon",
+    "writerChar": "月",
+    "story": {
+      "en": "This radical pictures “moon”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mặt trăng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "月",
+        "pinyin": "yuè",
+        "english": "moon / month",
+        "vietnamese": "tháng"
+      },
+      {
+        "character": "明",
+        "pinyin": "míng",
+        "english": "bright",
+        "vietnamese": "sáng"
+      },
+      {
+        "character": "有",
+        "pinyin": "yǒu",
+        "english": "have",
+        "vietnamese": "có"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 75,
+    "character": "木",
+    "pinyin": "mù",
+    "english": "tree",
+    "vietnamese": "cây",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "TreeDeciduous",
+    "writerChar": "木",
+    "story": {
+      "en": "A tree: roots, trunk, branches. Forests are 木 beside 木.",
+      "vi": "Một cái cây: rễ, thân, cành. Rừng là 木 đứng cạnh 木."
+    },
+    "examples": [
+      {
+        "character": "木",
+        "pinyin": "mù",
+        "english": "tree",
+        "vietnamese": "cây"
+      },
+      {
+        "character": "林",
+        "pinyin": "lín",
+        "english": "forest",
+        "vietnamese": "rừng"
+      },
+      {
+        "character": "树",
+        "pinyin": "shù",
+        "english": "tree",
+        "vietnamese": "cây"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 76,
+    "character": "欠",
+    "pinyin": "qiàn",
+    "english": "lack",
+    "vietnamese": "thiếu",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "Wind",
+    "writerChar": "欠",
+    "story": {
+      "en": "This radical pictures “lack”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thiếu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "次",
+        "pinyin": "cì",
+        "english": "time / next",
+        "vietnamese": "lần"
+      },
+      {
+        "character": "欢",
+        "pinyin": "huān",
+        "english": "joy",
+        "vietnamese": "vui"
+      },
+      {
+        "character": "歌",
+        "pinyin": "gē",
+        "english": "song",
+        "vietnamese": "bài hát"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 77,
+    "character": "止",
+    "pinyin": "zhǐ",
+    "english": "stop",
+    "vietnamese": "dừng",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "OctagonX",
+    "writerChar": "止",
+    "story": {
+      "en": "This radical pictures “stop”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dừng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "止",
+        "pinyin": "zhǐ",
+        "english": "stop",
+        "vietnamese": "dừng"
+      },
+      {
+        "character": "正",
+        "pinyin": "zhèng",
+        "english": "correct",
+        "vietnamese": "chính"
+      },
+      {
+        "character": "步",
+        "pinyin": "bù",
+        "english": "step",
+        "vietnamese": "bước"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 78,
+    "character": "歹",
+    "pinyin": "dǎi",
+    "english": "death",
+    "vietnamese": "xấu",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Skull",
+    "writerChar": "歹",
+    "story": {
+      "en": "This radical pictures “death”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “xấu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "死",
+        "pinyin": "sǐ",
+        "english": "die",
+        "vietnamese": "chết"
+      },
+      {
+        "character": "残",
+        "pinyin": "cán",
+        "english": "incomplete",
+        "vietnamese": "tàn"
+      },
+      {
+        "character": "殊",
+        "pinyin": "shū",
+        "english": "special",
+        "vietnamese": "đặc biệt"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 79,
+    "character": "殳",
+    "pinyin": "shū",
+    "english": "weapon",
+    "vietnamese": "binh khí",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Swords",
+    "writerChar": "殳",
+    "story": {
+      "en": "This radical pictures “weapon”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “binh khí”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "段",
+        "pinyin": "duàn",
+        "english": "section",
+        "vietnamese": "đoạn"
+      },
+      {
+        "character": "没",
+        "pinyin": "méi",
+        "english": "not have",
+        "vietnamese": "không có"
+      },
+      {
+        "character": "杀",
+        "pinyin": "shā",
+        "english": "kill",
+        "vietnamese": "giết"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 80,
+    "character": "毋",
+    "pinyin": "wú",
+    "english": "do not",
+    "vietnamese": "chớ",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Ban",
+    "writerChar": "毋",
+    "story": {
+      "en": "This radical pictures “do not”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chớ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "母",
+        "pinyin": "mǔ",
+        "english": "mother",
+        "vietnamese": "mẹ"
+      },
+      {
+        "character": "每",
+        "pinyin": "měi",
+        "english": "every",
+        "vietnamese": "mỗi"
+      },
+      {
+        "character": "海",
+        "pinyin": "hǎi",
+        "english": "sea",
+        "vietnamese": "biển"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 81,
+    "character": "比",
+    "pinyin": "bǐ",
+    "english": "compare",
+    "vietnamese": "so",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Columns2",
+    "writerChar": "比",
+    "story": {
+      "en": "This radical pictures “compare”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “so”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "比",
+        "pinyin": "bǐ",
+        "english": "compare",
+        "vietnamese": "so"
+      },
+      {
+        "character": "毕",
+        "pinyin": "bì",
+        "english": "finish",
+        "vietnamese": "xong"
+      },
+      {
+        "character": "昆",
+        "pinyin": "kūn",
+        "english": "elder brother",
+        "vietnamese": "huynh"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 82,
+    "character": "毛",
+    "pinyin": "máo",
+    "english": "fur",
+    "vietnamese": "lông",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Feather",
+    "writerChar": "毛",
+    "story": {
+      "en": "This radical pictures “fur”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lông”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "毛",
+        "pinyin": "máo",
+        "english": "fur",
+        "vietnamese": "lông"
+      },
+      {
+        "character": "笔",
+        "pinyin": "bǐ",
+        "english": "pen",
+        "vietnamese": "bút"
+      },
+      {
+        "character": "尾",
+        "pinyin": "wěi",
+        "english": "tail",
+        "vietnamese": "đuôi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 83,
+    "character": "氏",
+    "pinyin": "shì",
+    "english": "clan",
+    "vietnamese": "họ",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Users",
+    "writerChar": "氏",
+    "story": {
+      "en": "This radical pictures “clan”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “họ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "氏",
+        "pinyin": "shì",
+        "english": "clan",
+        "vietnamese": "thị"
+      },
+      {
+        "character": "民",
+        "pinyin": "mín",
+        "english": "people",
+        "vietnamese": "dân"
+      },
+      {
+        "character": "纸",
+        "pinyin": "zhǐ",
+        "english": "paper",
+        "vietnamese": "giấy"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 84,
+    "character": "气",
+    "pinyin": "qì",
+    "english": "steam",
+    "vietnamese": "khí",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "CloudFog",
+    "writerChar": "气",
+    "story": {
+      "en": "This radical pictures “steam”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “khí”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "气",
+        "pinyin": "qì",
+        "english": "air / qi",
+        "vietnamese": "khí"
+      },
+      {
+        "character": "汽",
+        "pinyin": "qì",
+        "english": "steam",
+        "vietnamese": "hơi"
+      },
+      {
+        "character": "氛",
+        "pinyin": "fēn",
+        "english": "atmosphere",
+        "vietnamese": "không khí"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 85,
+    "character": "水",
+    "variant": "氵",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "vietnamese": "nước",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Droplets",
+    "writerChar": "水",
+    "story": {
+      "en": "Water flowing. As 氵 on the left it marks rivers, seas, washing, and anything wet.",
+      "vi": "Nước chảy. Dạng 氵 bên trái đánh dấu sông, biển, rửa, mọi thứ ướt."
+    },
+    "examples": [
+      {
+        "character": "水",
+        "pinyin": "shuǐ",
+        "english": "water",
+        "vietnamese": "nước"
+      },
+      {
+        "character": "河",
+        "pinyin": "hé",
+        "english": "river",
+        "vietnamese": "sông"
+      },
+      {
+        "character": "海",
+        "pinyin": "hǎi",
+        "english": "sea",
+        "vietnamese": "biển"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 86,
+    "character": "火",
+    "variant": "灬",
+    "pinyin": "huǒ",
+    "english": "fire",
+    "vietnamese": "lửa",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Flame",
+    "writerChar": "火",
+    "story": {
+      "en": "Flames leaping. Four dots 灬 under a character often mean heat or cooking.",
+      "vi": "Ngọn lửa. Bốn chấm 灬 dưới chữ thường nghĩa nóng hoặc nấu."
+    },
+    "examples": [
+      {
+        "character": "火",
+        "pinyin": "huǒ",
+        "english": "fire",
+        "vietnamese": "lửa"
+      },
+      {
+        "character": "灯",
+        "pinyin": "dēng",
+        "english": "lamp",
+        "vietnamese": "đèn"
+      },
+      {
+        "character": "热",
+        "pinyin": "rè",
+        "english": "hot",
+        "vietnamese": "nóng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 87,
+    "character": "爪",
+    "pinyin": "zhǎo",
+    "english": "claw",
+    "vietnamese": "móng",
+    "strokes": 4,
+    "frequency": "common",
+    "icon": "PawPrint",
+    "writerChar": "爪",
+    "story": {
+      "en": "This radical pictures “claw”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “móng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "爪",
+        "pinyin": "zhǎo",
+        "english": "claw",
+        "vietnamese": "móng"
+      },
+      {
+        "character": "爬",
+        "pinyin": "pá",
+        "english": "climb",
+        "vietnamese": "bò"
+      },
+      {
+        "character": "抓",
+        "pinyin": "zhuā",
+        "english": "grab",
+        "vietnamese": "nắm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 88,
+    "character": "父",
+    "pinyin": "fù",
+    "english": "father",
+    "vietnamese": "cha",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "UserRound",
+    "writerChar": "父",
+    "story": {
+      "en": "This radical pictures “father”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cha”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "父",
+        "pinyin": "fù",
+        "english": "father",
+        "vietnamese": "cha"
+      },
+      {
+        "character": "爸",
+        "pinyin": "bà",
+        "english": "dad",
+        "vietnamese": "bố"
+      },
+      {
+        "character": "爷",
+        "pinyin": "yé",
+        "english": "grandpa",
+        "vietnamese": "ông"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 89,
+    "character": "爻",
+    "pinyin": "yáo",
+    "english": "diagram lines",
+    "vietnamese": "hào",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Hash",
+    "writerChar": "爻",
+    "story": {
+      "en": "This radical pictures “diagram lines”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “hào”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "爻",
+        "pinyin": "yáo",
+        "english": "diagram line",
+        "vietnamese": "hào"
+      },
+      {
+        "character": "爽",
+        "pinyin": "shuǎng",
+        "english": "refreshing",
+        "vietnamese": "sảng"
+      },
+      {
+        "character": "驳",
+        "pinyin": "bó",
+        "english": "refute",
+        "vietnamese": "bác"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 90,
+    "character": "爿",
+    "pinyin": "qiáng",
+    "english": "half wood",
+    "vietnamese": "mảnh gỗ",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Columns2",
+    "writerChar": "壮",
+    "story": {
+      "en": "This radical pictures “half wood”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mảnh gỗ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "壮",
+        "pinyin": "zhuàng",
+        "english": "strong",
+        "vietnamese": "tráng"
+      },
+      {
+        "character": "状",
+        "pinyin": "zhuàng",
+        "english": "form",
+        "vietnamese": "trạng"
+      },
+      {
+        "character": "将",
+        "pinyin": "jiāng",
+        "english": "will",
+        "vietnamese": "sẽ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 91,
+    "character": "片",
+    "pinyin": "piàn",
+    "english": "slice",
+    "vietnamese": "mảnh",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "RectangleVertical",
+    "writerChar": "片",
+    "story": {
+      "en": "This radical pictures “slice”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mảnh”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "片",
+        "pinyin": "piàn",
+        "english": "slice",
+        "vietnamese": "mảnh"
+      },
+      {
+        "character": "牌",
+        "pinyin": "pái",
+        "english": "card",
+        "vietnamese": "bài"
+      },
+      {
+        "character": "版",
+        "pinyin": "bǎn",
+        "english": "edition",
+        "vietnamese": "bản"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 92,
+    "character": "牙",
+    "pinyin": "yá",
+    "english": "fang",
+    "vietnamese": "răng nanh",
+    "strokes": 4,
+    "frequency": "rare",
+    "icon": "Gem",
+    "writerChar": "牙",
+    "story": {
+      "en": "This radical pictures “fang”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “răng nanh”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "牙",
+        "pinyin": "yá",
+        "english": "tooth",
+        "vietnamese": "răng"
+      },
+      {
+        "character": "芽",
+        "pinyin": "yá",
+        "english": "sprout",
+        "vietnamese": "mầm"
+      },
+      {
+        "character": "穿",
+        "pinyin": "chuān",
+        "english": "wear",
+        "vietnamese": "mặc"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 93,
+    "character": "牛",
+    "pinyin": "niú",
+    "english": "ox",
+    "vietnamese": "trâu",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Beef",
+    "writerChar": "牛",
+    "story": {
+      "en": "This radical pictures “ox”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “trâu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "牛",
+        "pinyin": "niú",
+        "english": "ox",
+        "vietnamese": "trâu"
+      },
+      {
+        "character": "特",
+        "pinyin": "tè",
+        "english": "special",
+        "vietnamese": "đặc biệt"
+      },
+      {
+        "character": "物",
+        "pinyin": "wù",
+        "english": "thing",
+        "vietnamese": "vật"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 94,
+    "character": "犬",
+    "variant": "犭",
+    "pinyin": "quǎn",
+    "english": "dog",
+    "vietnamese": "chó",
+    "strokes": 4,
+    "frequency": "core",
+    "icon": "Dog",
+    "writerChar": "犬",
+    "story": {
+      "en": "A dog. On the left it shrinks to 犭 and keeps company with animals and wildness.",
+      "vi": "Con chó. Bên trái thu thành 犭, đi cùng thú vật và sự hoang dã."
+    },
+    "examples": [
+      {
+        "character": "狗",
+        "pinyin": "gǒu",
+        "english": "dog",
+        "vietnamese": "chó"
+      },
+      {
+        "character": "猫",
+        "pinyin": "māo",
+        "english": "cat",
+        "vietnamese": "mèo"
+      },
+      {
+        "character": "独",
+        "pinyin": "dú",
+        "english": "alone",
+        "vietnamese": "một mình"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 95,
+    "character": "玄",
+    "pinyin": "xuán",
+    "english": "profound",
+    "vietnamese": "huyền",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Sparkles",
+    "writerChar": "玄",
+    "story": {
+      "en": "This radical pictures “profound”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “huyền”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "玄",
+        "pinyin": "xuán",
+        "english": "mysterious",
+        "vietnamese": "huyền"
+      },
+      {
+        "character": "率",
+        "pinyin": "lǜ",
+        "english": "rate",
+        "vietnamese": "suất"
+      },
+      {
+        "character": "畜",
+        "pinyin": "chù",
+        "english": "livestock",
+        "vietnamese": "súc"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 96,
+    "character": "玉",
+    "variant": "王",
+    "pinyin": "yù",
+    "english": "jade",
+    "vietnamese": "ngọc",
+    "strokes": 5,
+    "frequency": "core",
+    "icon": "Gem",
+    "writerChar": "玉",
+    "story": {
+      "en": "This radical pictures “jade”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ngọc”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "玉",
+        "pinyin": "yù",
+        "english": "jade",
+        "vietnamese": "ngọc"
+      },
+      {
+        "character": "现",
+        "pinyin": "xiàn",
+        "english": "appear",
+        "vietnamese": "hiện"
+      },
+      {
+        "character": "球",
+        "pinyin": "qiú",
+        "english": "ball",
+        "vietnamese": "quả bóng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 97,
+    "character": "瓜",
+    "pinyin": "guā",
+    "english": "melon",
+    "vietnamese": "dưa",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Grape",
+    "writerChar": "瓜",
+    "story": {
+      "en": "This radical pictures “melon”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dưa”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "瓜",
+        "pinyin": "guā",
+        "english": "melon",
+        "vietnamese": "dưa"
+      },
+      {
+        "character": "瓣",
+        "pinyin": "bàn",
+        "english": "petal",
+        "vietnamese": "cánh"
+      },
+      {
+        "character": "瓢",
+        "pinyin": "piáo",
+        "english": "gourd ladle",
+        "vietnamese": "gáo"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 98,
+    "character": "瓦",
+    "pinyin": "wǎ",
+    "english": "tile",
+    "vietnamese": "ngói",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "BrickWall",
+    "writerChar": "瓦",
+    "story": {
+      "en": "This radical pictures “tile”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ngói”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "瓦",
+        "pinyin": "wǎ",
+        "english": "tile",
+        "vietnamese": "ngói"
+      },
+      {
+        "character": "瓶",
+        "pinyin": "píng",
+        "english": "bottle",
+        "vietnamese": "chai"
+      },
+      {
+        "character": "瓷",
+        "pinyin": "cí",
+        "english": "porcelain",
+        "vietnamese": "sứ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 99,
+    "character": "甘",
+    "pinyin": "gān",
+    "english": "sweet",
+    "vietnamese": "ngọt",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Candy",
+    "writerChar": "甘",
+    "story": {
+      "en": "This radical pictures “sweet”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ngọt”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "甘",
+        "pinyin": "gān",
+        "english": "sweet",
+        "vietnamese": "ngọt"
+      },
+      {
+        "character": "甜",
+        "pinyin": "tián",
+        "english": "sweet",
+        "vietnamese": "ngọt"
+      },
+      {
+        "character": "甚",
+        "pinyin": "shén",
+        "english": "very",
+        "vietnamese": "rất"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 100,
+    "character": "生",
+    "pinyin": "shēng",
+    "english": "life",
+    "vietnamese": "sống",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "Sprout",
+    "writerChar": "生",
+    "story": {
+      "en": "This radical pictures “life”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sống”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "生",
+        "pinyin": "shēng",
+        "english": "life",
+        "vietnamese": "sống"
+      },
+      {
+        "character": "姓",
+        "pinyin": "xìng",
+        "english": "surname",
+        "vietnamese": "họ"
+      },
+      {
+        "character": "产",
+        "pinyin": "chǎn",
+        "english": "produce",
+        "vietnamese": "sản"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 101,
+    "character": "用",
+    "pinyin": "yòng",
+    "english": "use",
+    "vietnamese": "dùng",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "Wrench",
+    "writerChar": "用",
+    "story": {
+      "en": "This radical pictures “use”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dùng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "用",
+        "pinyin": "yòng",
+        "english": "use",
+        "vietnamese": "dùng"
+      },
+      {
+        "character": "甩",
+        "pinyin": "shuǎi",
+        "english": "fling",
+        "vietnamese": "vung"
+      },
+      {
+        "character": "甫",
+        "pinyin": "fǔ",
+        "english": "just / a name",
+        "vietnamese": "phủ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 102,
+    "character": "田",
+    "pinyin": "tián",
+    "english": "field",
+    "vietnamese": "ruộng",
+    "strokes": 5,
+    "frequency": "core",
+    "icon": "LayoutGrid",
+    "writerChar": "田",
+    "story": {
+      "en": "This radical pictures “field”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ruộng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "田",
+        "pinyin": "tián",
+        "english": "field",
+        "vietnamese": "ruộng"
+      },
+      {
+        "character": "男",
+        "pinyin": "nán",
+        "english": "man",
+        "vietnamese": "nam"
+      },
+      {
+        "character": "电",
+        "pinyin": "diàn",
+        "english": "electricity",
+        "vietnamese": "điện"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 103,
+    "character": "疋",
+    "pinyin": "pǐ",
+    "english": "bolt of cloth",
+    "vietnamese": "tấm vải",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Scroll",
+    "writerChar": "楚",
+    "story": {
+      "en": "This radical pictures “bolt of cloth”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tấm vải”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "楚",
+        "pinyin": "chǔ",
+        "english": "clear",
+        "vietnamese": "sở"
+      },
+      {
+        "character": "疏",
+        "pinyin": "shū",
+        "english": "sparse",
+        "vietnamese": "thưa"
+      },
+      {
+        "character": "疑",
+        "pinyin": "yí",
+        "english": "doubt",
+        "vietnamese": "nghi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 104,
+    "character": "疒",
+    "pinyin": "nè",
+    "english": "sickness",
+    "vietnamese": "bệnh",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Cross",
+    "writerChar": "病",
+    "story": {
+      "en": "This radical pictures “sickness”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bệnh”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "病",
+        "pinyin": "bìng",
+        "english": "illness",
+        "vietnamese": "bệnh"
+      },
+      {
+        "character": "疼",
+        "pinyin": "téng",
+        "english": "ache",
+        "vietnamese": "đau"
+      },
+      {
+        "character": "痛",
+        "pinyin": "tòng",
+        "english": "pain",
+        "vietnamese": "đau"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 105,
+    "character": "癶",
+    "pinyin": "bō",
+    "english": "footsteps",
+    "vietnamese": "bước chân",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Footprints",
+    "writerChar": "登",
+    "story": {
+      "en": "This radical pictures “footsteps”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bước chân”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "登",
+        "pinyin": "dēng",
+        "english": "climb",
+        "vietnamese": "leo"
+      },
+      {
+        "character": "发",
+        "pinyin": "fā",
+        "english": "send / hair",
+        "vietnamese": "phát"
+      },
+      {
+        "character": "癸",
+        "pinyin": "guǐ",
+        "english": "10th stem",
+        "vietnamese": "quý"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 106,
+    "character": "白",
+    "pinyin": "bái",
+    "english": "white",
+    "vietnamese": "trắng",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "Circle",
+    "writerChar": "白",
+    "story": {
+      "en": "This radical pictures “white”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “trắng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "白",
+        "pinyin": "bái",
+        "english": "white",
+        "vietnamese": "trắng"
+      },
+      {
+        "character": "的",
+        "pinyin": "de",
+        "english": "of / 's",
+        "vietnamese": "của"
+      },
+      {
+        "character": "百",
+        "pinyin": "bǎi",
+        "english": "hundred",
+        "vietnamese": "trăm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 107,
+    "character": "皮",
+    "pinyin": "pí",
+    "english": "skin",
+    "vietnamese": "da",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "Layers",
+    "writerChar": "皮",
+    "story": {
+      "en": "This radical pictures “skin”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “da”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "皮",
+        "pinyin": "pí",
+        "english": "skin",
+        "vietnamese": "da"
+      },
+      {
+        "character": "彼",
+        "pinyin": "bǐ",
+        "english": "that",
+        "vietnamese": "kia"
+      },
+      {
+        "character": "波",
+        "pinyin": "bō",
+        "english": "wave",
+        "vietnamese": "sóng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 108,
+    "character": "皿",
+    "pinyin": "mǐn",
+    "english": "dish",
+    "vietnamese": "bát",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "Bowl",
+    "writerChar": "皿",
+    "story": {
+      "en": "This radical pictures “dish”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bát”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "盘",
+        "pinyin": "pán",
+        "english": "plate",
+        "vietnamese": "đĩa"
+      },
+      {
+        "character": "盛",
+        "pinyin": "shèng",
+        "english": "flourishing",
+        "vietnamese": "thịnh"
+      },
+      {
+        "character": "盒",
+        "pinyin": "hé",
+        "english": "box",
+        "vietnamese": "hộp"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 109,
+    "character": "目",
+    "pinyin": "mù",
+    "english": "eye",
+    "vietnamese": "mắt",
+    "strokes": 5,
+    "frequency": "core",
+    "icon": "Eye",
+    "writerChar": "目",
+    "story": {
+      "en": "This radical pictures “eye”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mắt”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "目",
+        "pinyin": "mù",
+        "english": "eye",
+        "vietnamese": "mắt"
+      },
+      {
+        "character": "看",
+        "pinyin": "kàn",
+        "english": "look",
+        "vietnamese": "nhìn"
+      },
+      {
+        "character": "眼",
+        "pinyin": "yǎn",
+        "english": "eye",
+        "vietnamese": "mắt"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 110,
+    "character": "矛",
+    "pinyin": "máo",
+    "english": "spear",
+    "vietnamese": "giáo",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Sword",
+    "writerChar": "矛",
+    "story": {
+      "en": "This radical pictures “spear”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “giáo”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "矛",
+        "pinyin": "máo",
+        "english": "spear",
+        "vietnamese": "mâu"
+      },
+      {
+        "character": "柔",
+        "pinyin": "róu",
+        "english": "soft",
+        "vietnamese": "mềm"
+      },
+      {
+        "character": "务",
+        "pinyin": "wù",
+        "english": "affair",
+        "vietnamese": "vụ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 111,
+    "character": "矢",
+    "pinyin": "shǐ",
+    "english": "arrow",
+    "vietnamese": "tên",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "ArrowUp",
+    "writerChar": "矢",
+    "story": {
+      "en": "This radical pictures “arrow”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tên”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "矢",
+        "pinyin": "shǐ",
+        "english": "arrow",
+        "vietnamese": "tên"
+      },
+      {
+        "character": "知",
+        "pinyin": "zhī",
+        "english": "know",
+        "vietnamese": "biết"
+      },
+      {
+        "character": "短",
+        "pinyin": "duǎn",
+        "english": "short",
+        "vietnamese": "ngắn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 112,
+    "character": "石",
+    "pinyin": "shí",
+    "english": "stone",
+    "vietnamese": "đá",
+    "strokes": 5,
+    "frequency": "core",
+    "icon": "Mountain",
+    "writerChar": "石",
+    "story": {
+      "en": "This radical pictures “stone”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đá”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "石",
+        "pinyin": "shí",
+        "english": "stone",
+        "vietnamese": "đá"
+      },
+      {
+        "character": "破",
+        "pinyin": "pò",
+        "english": "break",
+        "vietnamese": "vỡ"
+      },
+      {
+        "character": "砂",
+        "pinyin": "shā",
+        "english": "sand",
+        "vietnamese": "cát"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 113,
+    "character": "示",
+    "variant": "礻",
+    "pinyin": "shì",
+    "english": "spirit",
+    "vietnamese": "thần",
+    "strokes": 5,
+    "frequency": "core",
+    "icon": "Sparkles",
+    "writerChar": "示",
+    "story": {
+      "en": "This radical pictures “spirit”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thần”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "示",
+        "pinyin": "shì",
+        "english": "show",
+        "vietnamese": "bày"
+      },
+      {
+        "character": "社",
+        "pinyin": "shè",
+        "english": "society",
+        "vietnamese": "xã"
+      },
+      {
+        "character": "神",
+        "pinyin": "shén",
+        "english": "god",
+        "vietnamese": "thần"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 114,
+    "character": "禸",
+    "pinyin": "róu",
+    "english": "track",
+    "vietnamese": "dấu chân",
+    "strokes": 5,
+    "frequency": "rare",
+    "icon": "Footprints",
+    "writerChar": "禹",
+    "story": {
+      "en": "This radical pictures “track”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dấu chân”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "禹",
+        "pinyin": "yǔ",
+        "english": "Yu the Great",
+        "vietnamese": "Vũ"
+      },
+      {
+        "character": "离",
+        "pinyin": "lí",
+        "english": "leave",
+        "vietnamese": "ly"
+      },
+      {
+        "character": "禽",
+        "pinyin": "qín",
+        "english": "bird",
+        "vietnamese": "cầm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 115,
+    "character": "禾",
+    "pinyin": "hé",
+    "english": "grain",
+    "vietnamese": "lúa",
+    "strokes": 5,
+    "frequency": "core",
+    "icon": "Wheat",
+    "writerChar": "禾",
+    "story": {
+      "en": "This radical pictures “grain”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lúa”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "禾",
+        "pinyin": "hé",
+        "english": "grain",
+        "vietnamese": "lúa"
+      },
+      {
+        "character": "和",
+        "pinyin": "hé",
+        "english": "and / peace",
+        "vietnamese": "hòa"
+      },
+      {
+        "character": "秋",
+        "pinyin": "qiū",
+        "english": "autumn",
+        "vietnamese": "thu"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 116,
+    "character": "穴",
+    "pinyin": "xué",
+    "english": "cave",
+    "vietnamese": "hang",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "Cave",
+    "writerChar": "穴",
+    "story": {
+      "en": "This radical pictures “cave”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “hang”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "穴",
+        "pinyin": "xué",
+        "english": "cave",
+        "vietnamese": "hang"
+      },
+      {
+        "character": "空",
+        "pinyin": "kōng",
+        "english": "empty",
+        "vietnamese": "không"
+      },
+      {
+        "character": "穿",
+        "pinyin": "chuān",
+        "english": "wear",
+        "vietnamese": "mặc"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 117,
+    "character": "立",
+    "pinyin": "lì",
+    "english": "stand",
+    "vietnamese": "đứng",
+    "strokes": 5,
+    "frequency": "common",
+    "icon": "PersonStanding",
+    "writerChar": "立",
+    "story": {
+      "en": "This radical pictures “stand”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đứng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "立",
+        "pinyin": "lì",
+        "english": "stand",
+        "vietnamese": "đứng"
+      },
+      {
+        "character": "位",
+        "pinyin": "wèi",
+        "english": "seat",
+        "vietnamese": "vị"
+      },
+      {
+        "character": "音",
+        "pinyin": "yīn",
+        "english": "sound",
+        "vietnamese": "âm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 118,
+    "character": "竹",
+    "variant": "⺮",
+    "pinyin": "zhú",
+    "english": "bamboo",
+    "vietnamese": "tre",
+    "strokes": 6,
+    "frequency": "core",
+    "icon": "TreePine",
+    "writerChar": "竹",
+    "story": {
+      "en": "This radical pictures “bamboo”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tre”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "竹",
+        "pinyin": "zhú",
+        "english": "bamboo",
+        "vietnamese": "tre"
+      },
+      {
+        "character": "笑",
+        "pinyin": "xiào",
+        "english": "laugh",
+        "vietnamese": "cười"
+      },
+      {
+        "character": "笔",
+        "pinyin": "bǐ",
+        "english": "pen",
+        "vietnamese": "bút"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 119,
+    "character": "米",
+    "pinyin": "mǐ",
+    "english": "rice",
+    "vietnamese": "gạo",
+    "strokes": 6,
+    "frequency": "core",
+    "icon": "Wheat",
+    "writerChar": "米",
+    "story": {
+      "en": "This radical pictures “rice”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “gạo”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "米",
+        "pinyin": "mǐ",
+        "english": "rice",
+        "vietnamese": "gạo"
+      },
+      {
+        "character": "粉",
+        "pinyin": "fěn",
+        "english": "powder",
+        "vietnamese": "bột"
+      },
+      {
+        "character": "糖",
+        "pinyin": "táng",
+        "english": "sugar",
+        "vietnamese": "đường"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 120,
+    "character": "糸",
+    "simplified": "丝",
+    "variant": "纟",
+    "pinyin": "mì",
+    "english": "silk",
+    "vietnamese": "tơ",
+    "strokes": 6,
+    "frequency": "core",
+    "icon": "Spline",
+    "writerChar": "糸",
+    "story": {
+      "en": "This radical pictures “silk”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tơ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "丝",
+        "pinyin": "sī",
+        "english": "silk",
+        "vietnamese": "tơ"
+      },
+      {
+        "character": "红",
+        "pinyin": "hóng",
+        "english": "red",
+        "vietnamese": "đỏ"
+      },
+      {
+        "character": "经",
+        "pinyin": "jīng",
+        "english": "pass through",
+        "vietnamese": "kinh"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 121,
+    "character": "缶",
+    "pinyin": "fǒu",
+    "english": "jar",
+    "vietnamese": "vò",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "CupSoda",
+    "writerChar": "缶",
+    "story": {
+      "en": "This radical pictures “jar”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “vò”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "缺",
+        "pinyin": "quē",
+        "english": "lack",
+        "vietnamese": "thiếu"
+      },
+      {
+        "character": "罐",
+        "pinyin": "guàn",
+        "english": "can",
+        "vietnamese": "lon"
+      },
+      {
+        "character": "陶",
+        "pinyin": "táo",
+        "english": "pottery",
+        "vietnamese": "gốm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 122,
+    "character": "网",
+    "variant": "罒",
+    "pinyin": "wǎng",
+    "english": "net",
+    "vietnamese": "lưới",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Grid3x3",
+    "writerChar": "网",
+    "story": {
+      "en": "This radical pictures “net”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lưới”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "网",
+        "pinyin": "wǎng",
+        "english": "net",
+        "vietnamese": "lưới"
+      },
+      {
+        "character": "罗",
+        "pinyin": "luó",
+        "english": "collect",
+        "vietnamese": "la"
+      },
+      {
+        "character": "罚",
+        "pinyin": "fá",
+        "english": "punish",
+        "vietnamese": "phạt"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 123,
+    "character": "羊",
+    "pinyin": "yáng",
+    "english": "sheep",
+    "vietnamese": "dê",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "Rabbit",
+    "writerChar": "羊",
+    "story": {
+      "en": "This radical pictures “sheep”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dê”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "羊",
+        "pinyin": "yáng",
+        "english": "sheep",
+        "vietnamese": "dê"
+      },
+      {
+        "character": "美",
+        "pinyin": "měi",
+        "english": "beautiful",
+        "vietnamese": "đẹp"
+      },
+      {
+        "character": "群",
+        "pinyin": "qún",
+        "english": "group",
+        "vietnamese": "nhóm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 124,
+    "character": "羽",
+    "pinyin": "yǔ",
+    "english": "feather",
+    "vietnamese": "lông vũ",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "Feather",
+    "writerChar": "羽",
+    "story": {
+      "en": "This radical pictures “feather”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lông vũ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "羽",
+        "pinyin": "yǔ",
+        "english": "feather",
+        "vietnamese": "lông vũ"
+      },
+      {
+        "character": "习",
+        "pinyin": "xí",
+        "english": "practice",
+        "vietnamese": "tập"
+      },
+      {
+        "character": "翻",
+        "pinyin": "fān",
+        "english": "flip",
+        "vietnamese": "lật"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 125,
+    "character": "老",
+    "pinyin": "lǎo",
+    "english": "old",
+    "vietnamese": "già",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "UserRound",
+    "writerChar": "老",
+    "story": {
+      "en": "This radical pictures “old”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “già”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "老",
+        "pinyin": "lǎo",
+        "english": "old",
+        "vietnamese": "già"
+      },
+      {
+        "character": "考",
+        "pinyin": "kǎo",
+        "english": "test",
+        "vietnamese": "thi"
+      },
+      {
+        "character": "者",
+        "pinyin": "zhě",
+        "english": "one who",
+        "vietnamese": "giả"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 126,
+    "character": "而",
+    "pinyin": "ér",
+    "english": "and",
+    "vietnamese": "mà",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Link",
+    "writerChar": "而",
+    "story": {
+      "en": "This radical pictures “and”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mà”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "而",
+        "pinyin": "ér",
+        "english": "and / yet",
+        "vietnamese": "mà"
+      },
+      {
+        "character": "耐",
+        "pinyin": "nài",
+        "english": "endure",
+        "vietnamese": "chịu"
+      },
+      {
+        "character": "需",
+        "pinyin": "xū",
+        "english": "need",
+        "vietnamese": "cần"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 127,
+    "character": "耒",
+    "pinyin": "lěi",
+    "english": "plow",
+    "vietnamese": "cày",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Tractor",
+    "writerChar": "耒",
+    "story": {
+      "en": "This radical pictures “plow”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cày”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "耕",
+        "pinyin": "gēng",
+        "english": "plow",
+        "vietnamese": "cày"
+      },
+      {
+        "character": "耗",
+        "pinyin": "hào",
+        "english": "consume",
+        "vietnamese": "hao"
+      },
+      {
+        "character": "耦",
+        "pinyin": "ǒu",
+        "english": "pair",
+        "vietnamese": "ngẫu"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 128,
+    "character": "耳",
+    "pinyin": "ěr",
+    "english": "ear",
+    "vietnamese": "tai",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "Ear",
+    "writerChar": "耳",
+    "story": {
+      "en": "This radical pictures “ear”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tai”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "耳",
+        "pinyin": "ěr",
+        "english": "ear",
+        "vietnamese": "tai"
+      },
+      {
+        "character": "听",
+        "pinyin": "tīng",
+        "english": "listen",
+        "vietnamese": "nghe"
+      },
+      {
+        "character": "取",
+        "pinyin": "qǔ",
+        "english": "take",
+        "vietnamese": "lấy"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 129,
+    "character": "聿",
+    "pinyin": "yù",
+    "english": "brush",
+    "vietnamese": "bút",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "PenLine",
+    "writerChar": "聿",
+    "story": {
+      "en": "This radical pictures “brush”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bút”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "笔",
+        "pinyin": "bǐ",
+        "english": "pen",
+        "vietnamese": "bút"
+      },
+      {
+        "character": "律",
+        "pinyin": "lǜ",
+        "english": "law",
+        "vietnamese": "luật"
+      },
+      {
+        "character": "建",
+        "pinyin": "jiàn",
+        "english": "build",
+        "vietnamese": "xây"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 130,
+    "character": "肉",
+    "variant": "月",
+    "pinyin": "ròu",
+    "english": "meat",
+    "vietnamese": "thịt",
+    "strokes": 6,
+    "frequency": "core",
+    "icon": "Beef",
+    "writerChar": "肉",
+    "story": {
+      "en": "This radical pictures “meat”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thịt”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "肉",
+        "pinyin": "ròu",
+        "english": "meat",
+        "vietnamese": "thịt"
+      },
+      {
+        "character": "肚",
+        "pinyin": "dù",
+        "english": "belly",
+        "vietnamese": "bụng"
+      },
+      {
+        "character": "腿",
+        "pinyin": "tuǐ",
+        "english": "leg",
+        "vietnamese": "chân"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 131,
+    "character": "臣",
+    "pinyin": "chén",
+    "english": "minister",
+    "vietnamese": "bầy tôi",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Briefcase",
+    "writerChar": "臣",
+    "story": {
+      "en": "This radical pictures “minister”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bầy tôi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "臣",
+        "pinyin": "chén",
+        "english": "minister",
+        "vietnamese": "thần"
+      },
+      {
+        "character": "卧",
+        "pinyin": "wò",
+        "english": "lie down",
+        "vietnamese": "nằm"
+      },
+      {
+        "character": "临",
+        "pinyin": "lín",
+        "english": "face",
+        "vietnamese": "lâm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 132,
+    "character": "自",
+    "pinyin": "zì",
+    "english": "self",
+    "vietnamese": "mình",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "ScanFace",
+    "writerChar": "自",
+    "story": {
+      "en": "This radical pictures “self”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mình”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "自",
+        "pinyin": "zì",
+        "english": "self",
+        "vietnamese": "tự"
+      },
+      {
+        "character": "息",
+        "pinyin": "xī",
+        "english": "rest",
+        "vietnamese": "nghỉ"
+      },
+      {
+        "character": "鼻",
+        "pinyin": "bí",
+        "english": "nose",
+        "vietnamese": "mũi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 133,
+    "character": "至",
+    "pinyin": "zhì",
+    "english": "arrive",
+    "vietnamese": "đến",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Flag",
+    "writerChar": "至",
+    "story": {
+      "en": "This radical pictures “arrive”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đến”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "至",
+        "pinyin": "zhì",
+        "english": "arrive",
+        "vietnamese": "đến"
+      },
+      {
+        "character": "到",
+        "pinyin": "dào",
+        "english": "to / arrive",
+        "vietnamese": "tới"
+      },
+      {
+        "character": "致",
+        "pinyin": "zhì",
+        "english": "cause",
+        "vietnamese": "gây"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 134,
+    "character": "臼",
+    "pinyin": "jiù",
+    "english": "mortar",
+    "vietnamese": "cối",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Bowl",
+    "writerChar": "臼",
+    "story": {
+      "en": "This radical pictures “mortar”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cối”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "臼",
+        "pinyin": "jiù",
+        "english": "mortar",
+        "vietnamese": "cối"
+      },
+      {
+        "character": "旧",
+        "pinyin": "jiù",
+        "english": "old",
+        "vietnamese": "cũ"
+      },
+      {
+        "character": "鼠",
+        "pinyin": "shǔ",
+        "english": "rat",
+        "vietnamese": "chuột"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 135,
+    "character": "舌",
+    "pinyin": "shé",
+    "english": "tongue",
+    "vietnamese": "lưỡi",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "Languages",
+    "writerChar": "舌",
+    "story": {
+      "en": "This radical pictures “tongue”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lưỡi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "舌",
+        "pinyin": "shé",
+        "english": "tongue",
+        "vietnamese": "lưỡi"
+      },
+      {
+        "character": "话",
+        "pinyin": "huà",
+        "english": "speech",
+        "vietnamese": "lời"
+      },
+      {
+        "character": "乱",
+        "pinyin": "luàn",
+        "english": "chaos",
+        "vietnamese": "loạn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 136,
+    "character": "舛",
+    "pinyin": "chuǎn",
+    "english": "oppose",
+    "vietnamese": "trái",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Split",
+    "writerChar": "舛",
+    "story": {
+      "en": "This radical pictures “oppose”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “trái”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "舞",
+        "pinyin": "wǔ",
+        "english": "dance",
+        "vietnamese": "múa"
+      },
+      {
+        "character": "舜",
+        "pinyin": "shùn",
+        "english": "Shun",
+        "vietnamese": "Thuấn"
+      },
+      {
+        "character": "杰",
+        "pinyin": "jié",
+        "english": "outstanding",
+        "vietnamese": "kiệt"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 137,
+    "character": "舟",
+    "pinyin": "zhōu",
+    "english": "boat",
+    "vietnamese": "thuyền",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "Ship",
+    "writerChar": "舟",
+    "story": {
+      "en": "This radical pictures “boat”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thuyền”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "舟",
+        "pinyin": "zhōu",
+        "english": "boat",
+        "vietnamese": "thuyền"
+      },
+      {
+        "character": "船",
+        "pinyin": "chuán",
+        "english": "ship",
+        "vietnamese": "tàu"
+      },
+      {
+        "character": "航",
+        "pinyin": "háng",
+        "english": "navigate",
+        "vietnamese": "hàng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 138,
+    "character": "艮",
+    "pinyin": "gèn",
+    "english": "stopping",
+    "vietnamese": "cấn",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "MountainSnow",
+    "writerChar": "艮",
+    "story": {
+      "en": "This radical pictures “stopping”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cấn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "良",
+        "pinyin": "liáng",
+        "english": "good",
+        "vietnamese": "lương"
+      },
+      {
+        "character": "很",
+        "pinyin": "hěn",
+        "english": "very",
+        "vietnamese": "rất"
+      },
+      {
+        "character": "限",
+        "pinyin": "xiàn",
+        "english": "limit",
+        "vietnamese": "hạn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 139,
+    "character": "色",
+    "pinyin": "sè",
+    "english": "color",
+    "vietnamese": "màu",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "Palette",
+    "writerChar": "色",
+    "story": {
+      "en": "This radical pictures “color”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “màu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "色",
+        "pinyin": "sè",
+        "english": "color",
+        "vietnamese": "màu"
+      },
+      {
+        "character": "艳",
+        "pinyin": "yàn",
+        "english": "gorgeous",
+        "vietnamese": "rực"
+      },
+      {
+        "character": "绝",
+        "pinyin": "jué",
+        "english": "absolute",
+        "vietnamese": "tuyệt"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 140,
+    "character": "艸",
+    "simplified": "草",
+    "variant": "艹",
+    "pinyin": "cǎo",
+    "english": "grass",
+    "vietnamese": "cỏ",
+    "strokes": 6,
+    "frequency": "core",
+    "icon": "Leaf",
+    "writerChar": "草",
+    "story": {
+      "en": "Grass sprouting. The 'grass head' 艹 sits on plants, teas, and flowers.",
+      "vi": "Cỏ nảy mầm. 'Đầu cỏ' 艹 ngồi trên cây, trà, hoa."
+    },
+    "examples": [
+      {
+        "character": "花",
+        "pinyin": "huā",
+        "english": "flower",
+        "vietnamese": "hoa"
+      },
+      {
+        "character": "草",
+        "pinyin": "cǎo",
+        "english": "grass",
+        "vietnamese": "cỏ"
+      },
+      {
+        "character": "茶",
+        "pinyin": "chá",
+        "english": "tea",
+        "vietnamese": "trà"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 141,
+    "character": "虍",
+    "pinyin": "hū",
+    "english": "tiger",
+    "vietnamese": "cọp",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Cat",
+    "writerChar": "虎",
+    "story": {
+      "en": "This radical pictures “tiger”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cọp”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "虎",
+        "pinyin": "hǔ",
+        "english": "tiger",
+        "vietnamese": "cọp"
+      },
+      {
+        "character": "虑",
+        "pinyin": "lǜ",
+        "english": "consider",
+        "vietnamese": "lo"
+      },
+      {
+        "character": "虚",
+        "pinyin": "xū",
+        "english": "empty",
+        "vietnamese": "hư"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 142,
+    "character": "虫",
+    "pinyin": "chóng",
+    "english": "insect",
+    "vietnamese": "sâu",
+    "strokes": 6,
+    "frequency": "core",
+    "icon": "Bug",
+    "writerChar": "虫",
+    "story": {
+      "en": "This radical pictures “insect”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sâu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "虫",
+        "pinyin": "chóng",
+        "english": "insect",
+        "vietnamese": "sâu"
+      },
+      {
+        "character": "虽",
+        "pinyin": "suī",
+        "english": "although",
+        "vietnamese": "tuy"
+      },
+      {
+        "character": "蛇",
+        "pinyin": "shé",
+        "english": "snake",
+        "vietnamese": "rắn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 143,
+    "character": "血",
+    "pinyin": "xuè",
+    "english": "blood",
+    "vietnamese": "máu",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Droplet",
+    "writerChar": "血",
+    "story": {
+      "en": "This radical pictures “blood”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “máu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "血",
+        "pinyin": "xuè",
+        "english": "blood",
+        "vietnamese": "máu"
+      },
+      {
+        "character": "众",
+        "pinyin": "zhòng",
+        "english": "crowd",
+        "vietnamese": "chúng"
+      },
+      {
+        "character": "衅",
+        "pinyin": "xìn",
+        "english": "quarrel",
+        "vietnamese": "hấn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 144,
+    "character": "行",
+    "pinyin": "xíng",
+    "english": "walk",
+    "vietnamese": "đi",
+    "strokes": 6,
+    "frequency": "common",
+    "icon": "Footprints",
+    "writerChar": "行",
+    "story": {
+      "en": "This radical pictures “walk”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "行",
+        "pinyin": "xíng",
+        "english": "go",
+        "vietnamese": "đi"
+      },
+      {
+        "character": "街",
+        "pinyin": "jiē",
+        "english": "street",
+        "vietnamese": "phố"
+      },
+      {
+        "character": "术",
+        "pinyin": "shù",
+        "english": "art",
+        "vietnamese": "thuật"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 145,
+    "character": "衣",
+    "variant": "衤",
+    "pinyin": "yī",
+    "english": "clothes",
+    "vietnamese": "áo",
+    "strokes": 6,
+    "frequency": "core",
+    "icon": "Shirt",
+    "writerChar": "衣",
+    "story": {
+      "en": "This radical pictures “clothes”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “áo”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "衣",
+        "pinyin": "yī",
+        "english": "clothes",
+        "vietnamese": "áo"
+      },
+      {
+        "character": "表",
+        "pinyin": "biǎo",
+        "english": "surface",
+        "vietnamese": "bề mặt"
+      },
+      {
+        "character": "袋",
+        "pinyin": "dài",
+        "english": "bag",
+        "vietnamese": "túi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 146,
+    "character": "襾",
+    "pinyin": "yà",
+    "english": "west",
+    "vietnamese": "che",
+    "strokes": 6,
+    "frequency": "rare",
+    "icon": "Sunset",
+    "writerChar": "西",
+    "story": {
+      "en": "This radical pictures “west”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “che”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "西",
+        "pinyin": "xī",
+        "english": "west",
+        "vietnamese": "tây"
+      },
+      {
+        "character": "要",
+        "pinyin": "yào",
+        "english": "want",
+        "vietnamese": "muốn"
+      },
+      {
+        "character": "覆",
+        "pinyin": "fù",
+        "english": "cover",
+        "vietnamese": "phủ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 147,
+    "character": "見",
+    "simplified": "见",
+    "variant": "见",
+    "pinyin": "jiàn",
+    "english": "see",
+    "vietnamese": "thấy",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "Eye",
+    "writerChar": "見",
+    "story": {
+      "en": "This radical pictures “see”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thấy”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "见",
+        "pinyin": "jiàn",
+        "english": "see",
+        "vietnamese": "thấy"
+      },
+      {
+        "character": "现",
+        "pinyin": "xiàn",
+        "english": "appear",
+        "vietnamese": "hiện"
+      },
+      {
+        "character": "觉",
+        "pinyin": "jué",
+        "english": "feel",
+        "vietnamese": "cảm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 148,
+    "character": "角",
+    "pinyin": "jiǎo",
+    "english": "horn",
+    "vietnamese": "sừng",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "Triangle",
+    "writerChar": "角",
+    "story": {
+      "en": "This radical pictures “horn”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sừng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "角",
+        "pinyin": "jiǎo",
+        "english": "horn / corner",
+        "vietnamese": "góc"
+      },
+      {
+        "character": "解",
+        "pinyin": "jiě",
+        "english": "untie",
+        "vietnamese": "giải"
+      },
+      {
+        "character": "触",
+        "pinyin": "chù",
+        "english": "touch",
+        "vietnamese": "chạm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 149,
+    "character": "言",
+    "variant": "讠",
+    "pinyin": "yán",
+    "english": "speech",
+    "vietnamese": "lời",
+    "strokes": 7,
+    "frequency": "core",
+    "icon": "MessageSquare",
+    "writerChar": "言",
+    "story": {
+      "en": "Words coming out of a mouth. Simplified, speech hides as 讠 on the left.",
+      "vi": "Lời từ miệng. Giản thể, lời nói ẩn thành 讠 bên trái."
+    },
+    "examples": [
+      {
+        "character": "言",
+        "pinyin": "yán",
+        "english": "speech",
+        "vietnamese": "lời"
+      },
+      {
+        "character": "说",
+        "pinyin": "shuō",
+        "english": "say",
+        "vietnamese": "nói"
+      },
+      {
+        "character": "话",
+        "pinyin": "huà",
+        "english": "words",
+        "vietnamese": "lời"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 150,
+    "character": "谷",
+    "pinyin": "gǔ",
+    "english": "valley",
+    "vietnamese": "thung lũng",
+    "strokes": 7,
+    "frequency": "rare",
+    "icon": "Mountain",
+    "writerChar": "谷",
+    "story": {
+      "en": "This radical pictures “valley”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thung lũng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "谷",
+        "pinyin": "gǔ",
+        "english": "valley",
+        "vietnamese": "cốc"
+      },
+      {
+        "character": "欲",
+        "pinyin": "yù",
+        "english": "desire",
+        "vietnamese": "muốn"
+      },
+      {
+        "character": "容",
+        "pinyin": "róng",
+        "english": "contain",
+        "vietnamese": "dung"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 151,
+    "character": "豆",
+    "pinyin": "dòu",
+    "english": "bean",
+    "vietnamese": "đậu",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "Bean",
+    "writerChar": "豆",
+    "story": {
+      "en": "This radical pictures “bean”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đậu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "豆",
+        "pinyin": "dòu",
+        "english": "bean",
+        "vietnamese": "đậu"
+      },
+      {
+        "character": "登",
+        "pinyin": "dēng",
+        "english": "climb",
+        "vietnamese": "leo"
+      },
+      {
+        "character": "短",
+        "pinyin": "duǎn",
+        "english": "short",
+        "vietnamese": "ngắn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 152,
+    "character": "豕",
+    "pinyin": "shǐ",
+    "english": "pig",
+    "vietnamese": "heo",
+    "strokes": 7,
+    "frequency": "rare",
+    "icon": "PiggyBank",
+    "writerChar": "豕",
+    "story": {
+      "en": "This radical pictures “pig”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “heo”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "家",
+        "pinyin": "jiā",
+        "english": "home",
+        "vietnamese": "nhà"
+      },
+      {
+        "character": "象",
+        "pinyin": "xiàng",
+        "english": "elephant",
+        "vietnamese": "voi"
+      },
+      {
+        "character": "豪",
+        "pinyin": "háo",
+        "english": "heroic",
+        "vietnamese": "hào"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 153,
+    "character": "豸",
+    "pinyin": "zhì",
+    "english": "cat-like beast",
+    "vietnamese": "thú",
+    "strokes": 7,
+    "frequency": "rare",
+    "icon": "Squirrel",
+    "writerChar": "豸",
+    "story": {
+      "en": "This radical pictures “cat-like beast”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thú”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "豹",
+        "pinyin": "bào",
+        "english": "leopard",
+        "vietnamese": "báo"
+      },
+      {
+        "character": "貌",
+        "pinyin": "mào",
+        "english": "appearance",
+        "vietnamese": "dáng"
+      },
+      {
+        "character": "貉",
+        "pinyin": "hé",
+        "english": "raccoon dog",
+        "vietnamese": "lạc"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 154,
+    "character": "貝",
+    "simplified": "贝",
+    "variant": "贝",
+    "pinyin": "bèi",
+    "english": "shell",
+    "vietnamese": "vỏ sò",
+    "strokes": 7,
+    "frequency": "core",
+    "icon": "CircleDollarSign",
+    "writerChar": "貝",
+    "story": {
+      "en": "This radical pictures “shell”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “vỏ sò”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "贝",
+        "pinyin": "bèi",
+        "english": "shell / money",
+        "vietnamese": "sò"
+      },
+      {
+        "character": "贵",
+        "pinyin": "guì",
+        "english": "expensive",
+        "vietnamese": "đắt"
+      },
+      {
+        "character": "买",
+        "pinyin": "mǎi",
+        "english": "buy",
+        "vietnamese": "mua"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 155,
+    "character": "赤",
+    "pinyin": "chì",
+    "english": "red",
+    "vietnamese": "đỏ",
+    "strokes": 7,
+    "frequency": "rare",
+    "icon": "Flame",
+    "writerChar": "赤",
+    "story": {
+      "en": "This radical pictures “red”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đỏ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "赤",
+        "pinyin": "chì",
+        "english": "red",
+        "vietnamese": "đỏ"
+      },
+      {
+        "character": "赫",
+        "pinyin": "hè",
+        "english": "awe-inspiring",
+        "vietnamese": "hách"
+      },
+      {
+        "character": "赦",
+        "pinyin": "shè",
+        "english": "pardon",
+        "vietnamese": "xá"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 156,
+    "character": "走",
+    "pinyin": "zǒu",
+    "english": "run",
+    "vietnamese": "chạy",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "PersonStanding",
+    "writerChar": "走",
+    "story": {
+      "en": "This radical pictures “run”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chạy”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "走",
+        "pinyin": "zǒu",
+        "english": "walk",
+        "vietnamese": "đi"
+      },
+      {
+        "character": "起",
+        "pinyin": "qǐ",
+        "english": "rise",
+        "vietnamese": "dậy"
+      },
+      {
+        "character": "超",
+        "pinyin": "chāo",
+        "english": "super",
+        "vietnamese": "siêu"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 157,
+    "character": "足",
+    "variant": "⻊",
+    "pinyin": "zú",
+    "english": "foot",
+    "vietnamese": "chân",
+    "strokes": 7,
+    "frequency": "core",
+    "icon": "Footprints",
+    "writerChar": "足",
+    "story": {
+      "en": "This radical pictures “foot”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chân”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "足",
+        "pinyin": "zú",
+        "english": "foot",
+        "vietnamese": "chân"
+      },
+      {
+        "character": "跑",
+        "pinyin": "pǎo",
+        "english": "run",
+        "vietnamese": "chạy"
+      },
+      {
+        "character": "路",
+        "pinyin": "lù",
+        "english": "road",
+        "vietnamese": "đường"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 158,
+    "character": "身",
+    "pinyin": "shēn",
+    "english": "body",
+    "vietnamese": "thân",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "User",
+    "writerChar": "身",
+    "story": {
+      "en": "This radical pictures “body”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thân”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "身",
+        "pinyin": "shēn",
+        "english": "body",
+        "vietnamese": "thân"
+      },
+      {
+        "character": "射",
+        "pinyin": "shè",
+        "english": "shoot",
+        "vietnamese": "bắn"
+      },
+      {
+        "character": "躺",
+        "pinyin": "tǎng",
+        "english": "lie",
+        "vietnamese": "nằm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 159,
+    "character": "車",
+    "simplified": "车",
+    "variant": "车",
+    "pinyin": "chē",
+    "english": "cart",
+    "vietnamese": "xe",
+    "strokes": 7,
+    "frequency": "core",
+    "icon": "CarFront",
+    "writerChar": "車",
+    "story": {
+      "en": "This radical pictures “cart”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “xe”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "车",
+        "pinyin": "chē",
+        "english": "vehicle",
+        "vietnamese": "xe"
+      },
+      {
+        "character": "转",
+        "pinyin": "zhuǎn",
+        "english": "turn",
+        "vietnamese": "chuyển"
+      },
+      {
+        "character": "轻",
+        "pinyin": "qīng",
+        "english": "light",
+        "vietnamese": "nhẹ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 160,
+    "character": "辛",
+    "pinyin": "xīn",
+    "english": "bitter",
+    "vietnamese": "cay",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "Flame",
+    "writerChar": "辛",
+    "story": {
+      "en": "This radical pictures “bitter”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cay”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "辛",
+        "pinyin": "xīn",
+        "english": "bitter",
+        "vietnamese": "cay"
+      },
+      {
+        "character": "辜",
+        "pinyin": "gū",
+        "english": "guilt",
+        "vietnamese": "cô"
+      },
+      {
+        "character": "辟",
+        "pinyin": "pì",
+        "english": "open up",
+        "vietnamese": "tịch"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 161,
+    "character": "辰",
+    "pinyin": "chén",
+    "english": "morning",
+    "vietnamese": "thìn",
+    "strokes": 7,
+    "frequency": "rare",
+    "icon": "Sunrise",
+    "writerChar": "辰",
+    "story": {
+      "en": "This radical pictures “morning”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thìn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "辰",
+        "pinyin": "chén",
+        "english": "earthly branch",
+        "vietnamese": "thìn"
+      },
+      {
+        "character": "振",
+        "pinyin": "zhèn",
+        "english": "shake",
+        "vietnamese": "chấn"
+      },
+      {
+        "character": "晨",
+        "pinyin": "chén",
+        "english": "morning",
+        "vietnamese": "sáng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 162,
+    "character": "辵",
+    "variant": "辶",
+    "pinyin": "chuò",
+    "english": "walk",
+    "vietnamese": "đi",
+    "strokes": 7,
+    "frequency": "core",
+    "icon": "Footprints",
+    "writerChar": "过",
+    "story": {
+      "en": "This radical pictures “walk”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "过",
+        "pinyin": "guò",
+        "english": "pass",
+        "vietnamese": "qua"
+      },
+      {
+        "character": "进",
+        "pinyin": "jìn",
+        "english": "enter",
+        "vietnamese": "vào"
+      },
+      {
+        "character": "道",
+        "pinyin": "dào",
+        "english": "way",
+        "vietnamese": "đạo"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 163,
+    "character": "邑",
+    "variant": "⻏",
+    "pinyin": "yì",
+    "english": "city",
+    "vietnamese": "ấp",
+    "strokes": 7,
+    "frequency": "rare",
+    "icon": "Landmark",
+    "writerChar": "都",
+    "story": {
+      "en": "This radical pictures “city”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ấp”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "都",
+        "pinyin": "dōu",
+        "english": "all / capital",
+        "vietnamese": "đều"
+      },
+      {
+        "character": "那",
+        "pinyin": "nà",
+        "english": "that",
+        "vietnamese": "kia"
+      },
+      {
+        "character": "部",
+        "pinyin": "bù",
+        "english": "part",
+        "vietnamese": "bộ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 164,
+    "character": "酉",
+    "pinyin": "yǒu",
+    "english": "wine",
+    "vietnamese": "rượu",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "Wine",
+    "writerChar": "酉",
+    "story": {
+      "en": "This radical pictures “wine”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “rượu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "酒",
+        "pinyin": "jiǔ",
+        "english": "alcohol",
+        "vietnamese": "rượu"
+      },
+      {
+        "character": "配",
+        "pinyin": "pèi",
+        "english": "match",
+        "vietnamese": "phối"
+      },
+      {
+        "character": "醉",
+        "pinyin": "zuì",
+        "english": "drunk",
+        "vietnamese": "say"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 165,
+    "character": "釆",
+    "pinyin": "biàn",
+    "english": "distinguish",
+    "vietnamese": "phân biệt",
+    "strokes": 7,
+    "frequency": "rare",
+    "icon": "ScanSearch",
+    "writerChar": "番",
+    "story": {
+      "en": "This radical pictures “distinguish”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “phân biệt”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "番",
+        "pinyin": "fān",
+        "english": "time / foreign",
+        "vietnamese": "phiên"
+      },
+      {
+        "character": "释",
+        "pinyin": "shì",
+        "english": "explain",
+        "vietnamese": "thích"
+      },
+      {
+        "character": "悉",
+        "pinyin": "xī",
+        "english": "know fully",
+        "vietnamese": "tất"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 166,
+    "character": "里",
+    "pinyin": "lǐ",
+    "english": "village",
+    "vietnamese": "dặm",
+    "strokes": 7,
+    "frequency": "common",
+    "icon": "MapPin",
+    "writerChar": "里",
+    "story": {
+      "en": "This radical pictures “village”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dặm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "里",
+        "pinyin": "lǐ",
+        "english": "inside / village",
+        "vietnamese": "trong"
+      },
+      {
+        "character": "野",
+        "pinyin": "yě",
+        "english": "wild",
+        "vietnamese": "hoang"
+      },
+      {
+        "character": "重",
+        "pinyin": "zhòng",
+        "english": "heavy",
+        "vietnamese": "nặng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 167,
+    "character": "金",
+    "variant": "钅",
+    "pinyin": "jīn",
+    "english": "gold",
+    "vietnamese": "vàng kim",
+    "strokes": 8,
+    "frequency": "core",
+    "icon": "Coins",
+    "writerChar": "金",
+    "story": {
+      "en": "Nuggets of metal. Gold, money, and tools take 钅 on the left in simplified script.",
+      "vi": "Thỏi kim loại. Vàng, tiền, dụng cụ mang 钅 bên trái ở chữ giản."
+    },
+    "examples": [
+      {
+        "character": "金",
+        "pinyin": "jīn",
+        "english": "gold / metal",
+        "vietnamese": "vàng"
+      },
+      {
+        "character": "钱",
+        "pinyin": "qián",
+        "english": "money",
+        "vietnamese": "tiền"
+      },
+      {
+        "character": "银",
+        "pinyin": "yín",
+        "english": "silver",
+        "vietnamese": "bạc"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 168,
+    "character": "長",
+    "simplified": "长",
+    "pinyin": "cháng",
+    "english": "long",
+    "vietnamese": "dài",
+    "strokes": 8,
+    "frequency": "common",
+    "icon": "MoveHorizontal",
+    "writerChar": "長",
+    "story": {
+      "en": "This radical pictures “long”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “dài”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "长",
+        "pinyin": "cháng",
+        "english": "long",
+        "vietnamese": "dài"
+      },
+      {
+        "character": "张",
+        "pinyin": "zhāng",
+        "english": "sheet",
+        "vietnamese": "trương"
+      },
+      {
+        "character": "套",
+        "pinyin": "tào",
+        "english": "set",
+        "vietnamese": "bộ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 169,
+    "character": "門",
+    "simplified": "门",
+    "variant": "门",
+    "pinyin": "mén",
+    "english": "gate",
+    "vietnamese": "cổng",
+    "strokes": 8,
+    "frequency": "core",
+    "icon": "DoorClosed",
+    "writerChar": "門",
+    "story": {
+      "en": "This radical pictures “gate”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cổng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "门",
+        "pinyin": "mén",
+        "english": "door",
+        "vietnamese": "cửa"
+      },
+      {
+        "character": "间",
+        "pinyin": "jiān",
+        "english": "between",
+        "vietnamese": "gian"
+      },
+      {
+        "character": "问",
+        "pinyin": "wèn",
+        "english": "ask",
+        "vietnamese": "hỏi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 170,
+    "character": "阜",
+    "variant": "阝",
+    "pinyin": "fù",
+    "english": "mound",
+    "vietnamese": "gò",
+    "strokes": 8,
+    "frequency": "common",
+    "icon": "Mountain",
+    "writerChar": "阳",
+    "story": {
+      "en": "This radical pictures “mound”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “gò”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "阳",
+        "pinyin": "yáng",
+        "english": "yang / sun",
+        "vietnamese": "dương"
+      },
+      {
+        "character": "阴",
+        "pinyin": "yīn",
+        "english": "yin / shade",
+        "vietnamese": "âm"
+      },
+      {
+        "character": "队",
+        "pinyin": "duì",
+        "english": "team",
+        "vietnamese": "đội"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 171,
+    "character": "隶",
+    "pinyin": "dài",
+    "english": "catch",
+    "vietnamese": "bắt",
+    "strokes": 8,
+    "frequency": "rare",
+    "icon": "Hand",
+    "writerChar": "隶",
+    "story": {
+      "en": "This radical pictures “catch”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bắt”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "隶",
+        "pinyin": "lì",
+        "english": "clerical / belong",
+        "vietnamese": "lệ"
+      },
+      {
+        "character": "逮",
+        "pinyin": "dǎi",
+        "english": "catch",
+        "vietnamese": "bắt"
+      },
+      {
+        "character": "康",
+        "pinyin": "kāng",
+        "english": "health",
+        "vietnamese": "khang"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 172,
+    "character": "隹",
+    "pinyin": "zhuī",
+    "english": "short-tailed bird",
+    "vietnamese": "chim ngắn đuôi",
+    "strokes": 8,
+    "frequency": "rare",
+    "icon": "Bird",
+    "writerChar": "雀",
+    "story": {
+      "en": "This radical pictures “short-tailed bird”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chim ngắn đuôi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "雀",
+        "pinyin": "què",
+        "english": "sparrow",
+        "vietnamese": "sẻ"
+      },
+      {
+        "character": "集",
+        "pinyin": "jí",
+        "english": "gather",
+        "vietnamese": "tập"
+      },
+      {
+        "character": "难",
+        "pinyin": "nán",
+        "english": "difficult",
+        "vietnamese": "khó"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 173,
+    "character": "雨",
+    "pinyin": "yǔ",
+    "english": "rain",
+    "vietnamese": "mưa",
+    "strokes": 8,
+    "frequency": "core",
+    "icon": "CloudRain",
+    "writerChar": "雨",
+    "story": {
+      "en": "This radical pictures “rain”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mưa”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "雨",
+        "pinyin": "yǔ",
+        "english": "rain",
+        "vietnamese": "mưa"
+      },
+      {
+        "character": "雪",
+        "pinyin": "xuě",
+        "english": "snow",
+        "vietnamese": "tuyết"
+      },
+      {
+        "character": "零",
+        "pinyin": "líng",
+        "english": "zero",
+        "vietnamese": "không"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 174,
+    "character": "青",
+    "pinyin": "qīng",
+    "english": "blue-green",
+    "vietnamese": "xanh",
+    "strokes": 8,
+    "frequency": "common",
+    "icon": "Leaf",
+    "writerChar": "青",
+    "story": {
+      "en": "This radical pictures “blue-green”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “xanh”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "青",
+        "pinyin": "qīng",
+        "english": "blue-green",
+        "vietnamese": "xanh"
+      },
+      {
+        "character": "静",
+        "pinyin": "jìng",
+        "english": "quiet",
+        "vietnamese": "tĩnh"
+      },
+      {
+        "character": "情",
+        "pinyin": "qíng",
+        "english": "feeling",
+        "vietnamese": "tình"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 175,
+    "character": "非",
+    "pinyin": "fēi",
+    "english": "wrong",
+    "vietnamese": "không phải",
+    "strokes": 8,
+    "frequency": "rare",
+    "icon": "Ban",
+    "writerChar": "非",
+    "story": {
+      "en": "This radical pictures “wrong”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “không phải”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "非",
+        "pinyin": "fēi",
+        "english": "not",
+        "vietnamese": "không"
+      },
+      {
+        "character": "靠",
+        "pinyin": "kào",
+        "english": "rely",
+        "vietnamese": "dựa"
+      },
+      {
+        "character": "罪",
+        "pinyin": "zuì",
+        "english": "crime",
+        "vietnamese": "tội"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 176,
+    "character": "面",
+    "pinyin": "miàn",
+    "english": "face",
+    "vietnamese": "mặt",
+    "strokes": 9,
+    "frequency": "common",
+    "icon": "Scan",
+    "writerChar": "面",
+    "story": {
+      "en": "This radical pictures “face”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mặt”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "面",
+        "pinyin": "miàn",
+        "english": "face",
+        "vietnamese": "mặt"
+      },
+      {
+        "character": "面包",
+        "pinyin": "miàn bāo",
+        "english": "bread",
+        "vietnamese": "bánh mì"
+      },
+      {
+        "character": "对面",
+        "pinyin": "duì miàn",
+        "english": "opposite",
+        "vietnamese": "đối diện"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 177,
+    "character": "革",
+    "pinyin": "gé",
+    "english": "leather",
+    "vietnamese": "da thuộc",
+    "strokes": 9,
+    "frequency": "rare",
+    "icon": "Shield",
+    "writerChar": "革",
+    "story": {
+      "en": "This radical pictures “leather”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “da thuộc”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "革",
+        "pinyin": "gé",
+        "english": "leather",
+        "vietnamese": "da"
+      },
+      {
+        "character": "鞋",
+        "pinyin": "xié",
+        "english": "shoe",
+        "vietnamese": "giày"
+      },
+      {
+        "character": "鞭",
+        "pinyin": "biān",
+        "english": "whip",
+        "vietnamese": "roi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 178,
+    "character": "韋",
+    "simplified": "韦",
+    "pinyin": "wéi",
+    "english": "tanned leather",
+    "vietnamese": "da mềm",
+    "strokes": 9,
+    "frequency": "rare",
+    "icon": "Scroll",
+    "writerChar": "韋",
+    "story": {
+      "en": "This radical pictures “tanned leather”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “da mềm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "韦",
+        "pinyin": "wéi",
+        "english": "leather",
+        "vietnamese": "vi"
+      },
+      {
+        "character": "韩",
+        "pinyin": "hán",
+        "english": "Korea / Han",
+        "vietnamese": "Hàn"
+      },
+      {
+        "character": "违",
+        "pinyin": "wéi",
+        "english": "violate",
+        "vietnamese": "vi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 179,
+    "character": "韭",
+    "pinyin": "jiǔ",
+    "english": "leek",
+    "vietnamese": "hẹ",
+    "strokes": 9,
+    "frequency": "rare",
+    "icon": "Leaf",
+    "writerChar": "韭",
+    "story": {
+      "en": "This radical pictures “leek”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “hẹ”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "韭",
+        "pinyin": "jiǔ",
+        "english": "leek",
+        "vietnamese": "hẹ"
+      },
+      {
+        "character": "韭菜",
+        "pinyin": "jiǔ cài",
+        "english": "chives",
+        "vietnamese": "hẹ"
+      },
+      {
+        "character": "韰",
+        "pinyin": "xiè",
+        "english": "harmonize",
+        "vietnamese": "hài"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 180,
+    "character": "音",
+    "pinyin": "yīn",
+    "english": "sound",
+    "vietnamese": "âm",
+    "strokes": 9,
+    "frequency": "common",
+    "icon": "Music",
+    "writerChar": "音",
+    "story": {
+      "en": "This radical pictures “sound”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “âm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "音",
+        "pinyin": "yīn",
+        "english": "sound",
+        "vietnamese": "âm"
+      },
+      {
+        "character": "意",
+        "pinyin": "yì",
+        "english": "meaning",
+        "vietnamese": "ý"
+      },
+      {
+        "character": "韵",
+        "pinyin": "yùn",
+        "english": "rhyme",
+        "vietnamese": "vận"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 181,
+    "character": "頁",
+    "simplified": "页",
+    "variant": "页",
+    "pinyin": "yè",
+    "english": "leaf",
+    "vietnamese": "trang",
+    "strokes": 9,
+    "frequency": "common",
+    "icon": "BookOpen",
+    "writerChar": "頁",
+    "story": {
+      "en": "This radical pictures “leaf”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “trang”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "页",
+        "pinyin": "yè",
+        "english": "page / head",
+        "vietnamese": "trang"
+      },
+      {
+        "character": "顺",
+        "pinyin": "shùn",
+        "english": "along",
+        "vietnamese": "thuận"
+      },
+      {
+        "character": "题",
+        "pinyin": "tí",
+        "english": "topic",
+        "vietnamese": "đề"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 182,
+    "character": "風",
+    "simplified": "风",
+    "variant": "风",
+    "pinyin": "fēng",
+    "english": "wind",
+    "vietnamese": "gió",
+    "strokes": 9,
+    "frequency": "common",
+    "icon": "Wind",
+    "writerChar": "風",
+    "story": {
+      "en": "This radical pictures “wind”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “gió”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "风",
+        "pinyin": "fēng",
+        "english": "wind",
+        "vietnamese": "gió"
+      },
+      {
+        "character": "飘",
+        "pinyin": "piāo",
+        "english": "drift",
+        "vietnamese": "bay"
+      },
+      {
+        "character": "台风",
+        "pinyin": "tái fēng",
+        "english": "typhoon",
+        "vietnamese": "bão"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 183,
+    "character": "飛",
+    "simplified": "飞",
+    "pinyin": "fēi",
+    "english": "fly",
+    "vietnamese": "bay",
+    "strokes": 9,
+    "frequency": "rare",
+    "icon": "Plane",
+    "writerChar": "飛",
+    "story": {
+      "en": "This radical pictures “fly”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “bay”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "飞",
+        "pinyin": "fēi",
+        "english": "fly",
+        "vietnamese": "bay"
+      },
+      {
+        "character": "飞翔",
+        "pinyin": "fēi xiáng",
+        "english": "soar",
+        "vietnamese": "bay lượn"
+      },
+      {
+        "character": "飞机",
+        "pinyin": "fēi jī",
+        "english": "airplane",
+        "vietnamese": "máy bay"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 184,
+    "character": "食",
+    "variant": "饣",
+    "pinyin": "shí",
+    "english": "eat",
+    "vietnamese": "ăn",
+    "strokes": 9,
+    "frequency": "core",
+    "icon": "Utensils",
+    "writerChar": "食",
+    "story": {
+      "en": "This radical pictures “eat”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ăn”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "食",
+        "pinyin": "shí",
+        "english": "eat",
+        "vietnamese": "ăn"
+      },
+      {
+        "character": "饭",
+        "pinyin": "fàn",
+        "english": "rice / meal",
+        "vietnamese": "cơm"
+      },
+      {
+        "character": "饿",
+        "pinyin": "è",
+        "english": "hungry",
+        "vietnamese": "đói"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 185,
+    "character": "首",
+    "pinyin": "shǒu",
+    "english": "head",
+    "vietnamese": "đầu",
+    "strokes": 9,
+    "frequency": "common",
+    "icon": "Crown",
+    "writerChar": "首",
+    "story": {
+      "en": "This radical pictures “head”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đầu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "首",
+        "pinyin": "shǒu",
+        "english": "head",
+        "vietnamese": "đầu"
+      },
+      {
+        "character": "道",
+        "pinyin": "dào",
+        "english": "way",
+        "vietnamese": "đạo"
+      },
+      {
+        "character": "导",
+        "pinyin": "dǎo",
+        "english": "lead",
+        "vietnamese": "dẫn"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 186,
+    "character": "香",
+    "pinyin": "xiāng",
+    "english": "fragrance",
+    "vietnamese": "thơm",
+    "strokes": 9,
+    "frequency": "common",
+    "icon": "Flower2",
+    "writerChar": "香",
+    "story": {
+      "en": "This radical pictures “fragrance”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thơm”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "香",
+        "pinyin": "xiāng",
+        "english": "fragrant",
+        "vietnamese": "thơm"
+      },
+      {
+        "character": "馨",
+        "pinyin": "xīn",
+        "english": "aromatic",
+        "vietnamese": "hinh"
+      },
+      {
+        "character": "香水",
+        "pinyin": "xiāng shuǐ",
+        "english": "perfume",
+        "vietnamese": "nước hoa"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 187,
+    "character": "馬",
+    "simplified": "马",
+    "variant": "马",
+    "pinyin": "mǎ",
+    "english": "horse",
+    "vietnamese": "ngựa",
+    "strokes": 10,
+    "frequency": "core",
+    "icon": "Horse",
+    "writerChar": "馬",
+    "story": {
+      "en": "This radical pictures “horse”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ngựa”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "马",
+        "pinyin": "mǎ",
+        "english": "horse",
+        "vietnamese": "ngựa"
+      },
+      {
+        "character": "骑",
+        "pinyin": "qí",
+        "english": "ride",
+        "vietnamese": "cưỡi"
+      },
+      {
+        "character": "驻",
+        "pinyin": "zhù",
+        "english": "station",
+        "vietnamese": "trú"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 188,
+    "character": "骨",
+    "pinyin": "gǔ",
+    "english": "bone",
+    "vietnamese": "xương",
+    "strokes": 10,
+    "frequency": "common",
+    "icon": "Bone",
+    "writerChar": "骨",
+    "story": {
+      "en": "This radical pictures “bone”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “xương”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "骨",
+        "pinyin": "gǔ",
+        "english": "bone",
+        "vietnamese": "xương"
+      },
+      {
+        "character": "滑",
+        "pinyin": "huá",
+        "english": "slippery",
+        "vietnamese": "trơn"
+      },
+      {
+        "character": "髓",
+        "pinyin": "suǐ",
+        "english": "marrow",
+        "vietnamese": "tủy"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 189,
+    "character": "高",
+    "pinyin": "gāo",
+    "english": "tall",
+    "vietnamese": "cao",
+    "strokes": 10,
+    "frequency": "common",
+    "icon": "ArrowUpToLine",
+    "writerChar": "高",
+    "story": {
+      "en": "This radical pictures “tall”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cao”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "高",
+        "pinyin": "gāo",
+        "english": "tall",
+        "vietnamese": "cao"
+      },
+      {
+        "character": "亮",
+        "pinyin": "liàng",
+        "english": "bright",
+        "vietnamese": "sáng"
+      },
+      {
+        "character": "亭",
+        "pinyin": "tíng",
+        "english": "pavilion",
+        "vietnamese": "đình"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 190,
+    "character": "髟",
+    "pinyin": "biāo",
+    "english": "hair",
+    "vietnamese": "tóc",
+    "strokes": 10,
+    "frequency": "rare",
+    "icon": "Scissors",
+    "writerChar": "发",
+    "story": {
+      "en": "This radical pictures “hair”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “tóc”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "发",
+        "pinyin": "fà",
+        "english": "hair",
+        "vietnamese": "tóc"
+      },
+      {
+        "character": "鬓",
+        "pinyin": "bìn",
+        "english": "sideburns",
+        "vietnamese": "mai tóc"
+      },
+      {
+        "character": "髦",
+        "pinyin": "máo",
+        "english": "fashionable",
+        "vietnamese": "mao"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 191,
+    "character": "鬥",
+    "pinyin": "dòu",
+    "english": "fight",
+    "vietnamese": "đấu",
+    "strokes": 10,
+    "frequency": "rare",
+    "icon": "Swords",
+    "writerChar": "斗",
+    "story": {
+      "en": "This radical pictures “fight”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đấu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "斗",
+        "pinyin": "dòu",
+        "english": "fight",
+        "vietnamese": "đấu"
+      },
+      {
+        "character": "闹",
+        "pinyin": "nào",
+        "english": "noisy",
+        "vietnamese": "ồn"
+      },
+      {
+        "character": "哄",
+        "pinyin": "hōng",
+        "english": "uproar",
+        "vietnamese": "om"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 192,
+    "character": "鬯",
+    "pinyin": "chàng",
+    "english": "sacrificial wine",
+    "vietnamese": "rượu tế",
+    "strokes": 10,
+    "frequency": "rare",
+    "icon": "Wine",
+    "writerChar": "鬯",
+    "story": {
+      "en": "This radical pictures “sacrificial wine”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “rượu tế”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鬯",
+        "pinyin": "chàng",
+        "english": "sacrificial wine",
+        "vietnamese": "rượu tế"
+      },
+      {
+        "character": "郁",
+        "pinyin": "yù",
+        "english": "lush",
+        "vietnamese": "uất"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 193,
+    "character": "鬲",
+    "pinyin": "lì",
+    "english": "cauldron",
+    "vietnamese": "đỉnh",
+    "strokes": 10,
+    "frequency": "rare",
+    "icon": "Flame",
+    "writerChar": "鬲",
+    "story": {
+      "en": "This radical pictures “cauldron”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đỉnh”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "融",
+        "pinyin": "róng",
+        "english": "melt",
+        "vietnamese": "dung"
+      },
+      {
+        "character": "隔",
+        "pinyin": "gé",
+        "english": "separate",
+        "vietnamese": "cách"
+      },
+      {
+        "character": "锅",
+        "pinyin": "guō",
+        "english": "wok",
+        "vietnamese": "nồi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 194,
+    "character": "鬼",
+    "pinyin": "guǐ",
+    "english": "ghost",
+    "vietnamese": "ma",
+    "strokes": 10,
+    "frequency": "common",
+    "icon": "Ghost",
+    "writerChar": "鬼",
+    "story": {
+      "en": "This radical pictures “ghost”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ma”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鬼",
+        "pinyin": "guǐ",
+        "english": "ghost",
+        "vietnamese": "ma"
+      },
+      {
+        "character": "魂",
+        "pinyin": "hún",
+        "english": "soul",
+        "vietnamese": "hồn"
+      },
+      {
+        "character": "魔",
+        "pinyin": "mó",
+        "english": "demon",
+        "vietnamese": "ma"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 195,
+    "character": "魚",
+    "simplified": "鱼",
+    "variant": "鱼",
+    "pinyin": "yú",
+    "english": "fish",
+    "vietnamese": "cá",
+    "strokes": 11,
+    "frequency": "core",
+    "icon": "Fish",
+    "writerChar": "魚",
+    "story": {
+      "en": "This radical pictures “fish”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “cá”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鱼",
+        "pinyin": "yú",
+        "english": "fish",
+        "vietnamese": "cá"
+      },
+      {
+        "character": "鲜",
+        "pinyin": "xiān",
+        "english": "fresh",
+        "vietnamese": "tươi"
+      },
+      {
+        "character": "渔",
+        "pinyin": "yú",
+        "english": "fishing",
+        "vietnamese": "ngư"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 196,
+    "character": "鳥",
+    "simplified": "鸟",
+    "variant": "鸟",
+    "pinyin": "niǎo",
+    "english": "bird",
+    "vietnamese": "chim",
+    "strokes": 11,
+    "frequency": "core",
+    "icon": "Bird",
+    "writerChar": "鳥",
+    "story": {
+      "en": "This radical pictures “bird”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chim”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鸟",
+        "pinyin": "niǎo",
+        "english": "bird",
+        "vietnamese": "chim"
+      },
+      {
+        "character": "鸡",
+        "pinyin": "jī",
+        "english": "chicken",
+        "vietnamese": "gà"
+      },
+      {
+        "character": "鸭",
+        "pinyin": "yā",
+        "english": "duck",
+        "vietnamese": "vịt"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 197,
+    "character": "鹵",
+    "simplified": "卤",
+    "pinyin": "lǔ",
+    "english": "salt",
+    "vietnamese": "muối",
+    "strokes": 11,
+    "frequency": "rare",
+    "icon": "Diamond",
+    "writerChar": "鹵",
+    "story": {
+      "en": "This radical pictures “salt”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “muối”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "盐",
+        "pinyin": "yán",
+        "english": "salt",
+        "vietnamese": "muối"
+      },
+      {
+        "character": "卤",
+        "pinyin": "lǔ",
+        "english": "brine",
+        "vietnamese": "nước muối"
+      },
+      {
+        "character": "碱",
+        "pinyin": "jiǎn",
+        "english": "alkali",
+        "vietnamese": "kiềm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 198,
+    "character": "鹿",
+    "pinyin": "lù",
+    "english": "deer",
+    "vietnamese": "hươu",
+    "strokes": 11,
+    "frequency": "common",
+    "icon": "Rabbit",
+    "writerChar": "鹿",
+    "story": {
+      "en": "This radical pictures “deer”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “hươu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鹿",
+        "pinyin": "lù",
+        "english": "deer",
+        "vietnamese": "hươu"
+      },
+      {
+        "character": "麒",
+        "pinyin": "qí",
+        "english": "qilin",
+        "vietnamese": "kỳ"
+      },
+      {
+        "character": "丽",
+        "pinyin": "lì",
+        "english": "beautiful",
+        "vietnamese": "lệ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 199,
+    "character": "麥",
+    "simplified": "麦",
+    "pinyin": "mài",
+    "english": "wheat",
+    "vietnamese": "lúa mì",
+    "strokes": 11,
+    "frequency": "rare",
+    "icon": "Wheat",
+    "writerChar": "麥",
+    "story": {
+      "en": "This radical pictures “wheat”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “lúa mì”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "麦",
+        "pinyin": "mài",
+        "english": "wheat",
+        "vietnamese": "lúa mì"
+      },
+      {
+        "character": "面",
+        "pinyin": "miàn",
+        "english": "noodles / flour",
+        "vietnamese": "mì"
+      },
+      {
+        "character": "麸",
+        "pinyin": "fū",
+        "english": "bran",
+        "vietnamese": "cám"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 200,
+    "character": "麻",
+    "pinyin": "má",
+    "english": "hemp",
+    "vietnamese": "gai dầu",
+    "strokes": 11,
+    "frequency": "rare",
+    "icon": "Trees",
+    "writerChar": "麻",
+    "story": {
+      "en": "This radical pictures “hemp”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “gai dầu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "麻",
+        "pinyin": "má",
+        "english": "hemp",
+        "vietnamese": "gai"
+      },
+      {
+        "character": "摩",
+        "pinyin": "mó",
+        "english": "rub",
+        "vietnamese": "mài"
+      },
+      {
+        "character": "磨",
+        "pinyin": "mó",
+        "english": "grind",
+        "vietnamese": "mài"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 201,
+    "character": "黃",
+    "simplified": "黄",
+    "pinyin": "huáng",
+    "english": "yellow",
+    "vietnamese": "vàng",
+    "strokes": 12,
+    "frequency": "rare",
+    "icon": "SunMedium",
+    "writerChar": "黃",
+    "story": {
+      "en": "This radical pictures “yellow”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “vàng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "黄",
+        "pinyin": "huáng",
+        "english": "yellow",
+        "vietnamese": "vàng"
+      },
+      {
+        "character": "黄金",
+        "pinyin": "huáng jīn",
+        "english": "gold",
+        "vietnamese": "vàng"
+      },
+      {
+        "character": "横",
+        "pinyin": "héng",
+        "english": "horizontal",
+        "vietnamese": "ngang"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 202,
+    "character": "黍",
+    "pinyin": "shǔ",
+    "english": "millet",
+    "vietnamese": "kê",
+    "strokes": 12,
+    "frequency": "rare",
+    "icon": "Wheat",
+    "writerChar": "黍",
+    "story": {
+      "en": "This radical pictures “millet”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “kê”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "黍",
+        "pinyin": "shǔ",
+        "english": "millet",
+        "vietnamese": "kê"
+      },
+      {
+        "character": "黎",
+        "pinyin": "lí",
+        "english": "black / many",
+        "vietnamese": "lê"
+      },
+      {
+        "character": "黏",
+        "pinyin": "nián",
+        "english": "sticky",
+        "vietnamese": "dính"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 203,
+    "character": "黑",
+    "pinyin": "hēi",
+    "english": "black",
+    "vietnamese": "đen",
+    "strokes": 12,
+    "frequency": "common",
+    "icon": "Circle",
+    "writerChar": "黑",
+    "story": {
+      "en": "This radical pictures “black”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đen”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "黑",
+        "pinyin": "hēi",
+        "english": "black",
+        "vietnamese": "đen"
+      },
+      {
+        "character": "墨",
+        "pinyin": "mò",
+        "english": "ink",
+        "vietnamese": "mực"
+      },
+      {
+        "character": "默",
+        "pinyin": "mò",
+        "english": "silent",
+        "vietnamese": "im"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 204,
+    "character": "黹",
+    "pinyin": "zhǐ",
+    "english": "embroidery",
+    "vietnamese": "thêu",
+    "strokes": 12,
+    "frequency": "rare",
+    "icon": "Paintbrush",
+    "writerChar": "黼",
+    "story": {
+      "en": "This radical pictures “embroidery”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “thêu”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "黼",
+        "pinyin": "fǔ",
+        "english": "embroidered axe",
+        "vietnamese": "phủ"
+      },
+      {
+        "character": "黻",
+        "pinyin": "fú",
+        "english": "ceremonial stitch",
+        "vietnamese": "phất"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 205,
+    "character": "黽",
+    "simplified": "黾",
+    "pinyin": "mǐn",
+    "english": "frog",
+    "vietnamese": "ếch",
+    "strokes": 13,
+    "frequency": "rare",
+    "icon": "Turtle",
+    "writerChar": "黾",
+    "story": {
+      "en": "This radical pictures “frog”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “ếch”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "黾",
+        "pinyin": "mǐn",
+        "english": "frog",
+        "vietnamese": "ếch"
+      },
+      {
+        "character": "绳",
+        "pinyin": "shéng",
+        "english": "rope",
+        "vietnamese": "dây"
+      },
+      {
+        "character": "蝇",
+        "pinyin": "yíng",
+        "english": "fly (insect)",
+        "vietnamese": "ruồi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 206,
+    "character": "鼎",
+    "pinyin": "dǐng",
+    "english": "tripod",
+    "vietnamese": "đỉnh đồng",
+    "strokes": 13,
+    "frequency": "rare",
+    "icon": "Milestone",
+    "writerChar": "鼎",
+    "story": {
+      "en": "This radical pictures “tripod”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đỉnh đồng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鼎",
+        "pinyin": "dǐng",
+        "english": "tripod",
+        "vietnamese": "đỉnh"
+      },
+      {
+        "character": "鼎盛",
+        "pinyin": "dǐng shèng",
+        "english": "heyday",
+        "vietnamese": "thịnh vượng"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 207,
+    "character": "鼓",
+    "pinyin": "gǔ",
+    "english": "drum",
+    "vietnamese": "trống",
+    "strokes": 13,
+    "frequency": "rare",
+    "icon": "Drum",
+    "writerChar": "鼓",
+    "story": {
+      "en": "This radical pictures “drum”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “trống”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鼓",
+        "pinyin": "gǔ",
+        "english": "drum",
+        "vietnamese": "trống"
+      },
+      {
+        "character": "喜",
+        "pinyin": "xǐ",
+        "english": "joy",
+        "vietnamese": "vui"
+      },
+      {
+        "character": "瞽",
+        "pinyin": "gǔ",
+        "english": "blind musician",
+        "vietnamese": "cổ"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 208,
+    "character": "鼠",
+    "pinyin": "shǔ",
+    "english": "rat",
+    "vietnamese": "chuột",
+    "strokes": 13,
+    "frequency": "rare",
+    "icon": "Rat",
+    "writerChar": "鼠",
+    "story": {
+      "en": "This radical pictures “rat”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “chuột”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鼠",
+        "pinyin": "shǔ",
+        "english": "rat",
+        "vietnamese": "chuột"
+      },
+      {
+        "character": "窜",
+        "pinyin": "cuàn",
+        "english": "flee",
+        "vietnamese": "trốn"
+      },
+      {
+        "character": "鼹",
+        "pinyin": "yǎn",
+        "english": "mole",
+        "vietnamese": "chuột chũi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 209,
+    "character": "鼻",
+    "pinyin": "bí",
+    "english": "nose",
+    "vietnamese": "mũi",
+    "strokes": 14,
+    "frequency": "common",
+    "icon": "Smile",
+    "writerChar": "鼻",
+    "story": {
+      "en": "This radical pictures “nose”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “mũi”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "鼻",
+        "pinyin": "bí",
+        "english": "nose",
+        "vietnamese": "mũi"
+      },
+      {
+        "character": "鼾",
+        "pinyin": "hān",
+        "english": "snore",
+        "vietnamese": "ngáy"
+      },
+      {
+        "character": "嗅",
+        "pinyin": "xiù",
+        "english": "smell",
+        "vietnamese": "ngửi"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 210,
+    "character": "齊",
+    "simplified": "齐",
+    "pinyin": "qí",
+    "english": "even",
+    "vietnamese": "đều",
+    "strokes": 14,
+    "frequency": "rare",
+    "icon": "AlignJustify",
+    "writerChar": "齊",
+    "story": {
+      "en": "This radical pictures “even”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “đều”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "齐",
+        "pinyin": "qí",
+        "english": "even / neat",
+        "vietnamese": "đều"
+      },
+      {
+        "character": "济",
+        "pinyin": "jì",
+        "english": "aid",
+        "vietnamese": "tế"
+      },
+      {
+        "character": "剂",
+        "pinyin": "jì",
+        "english": "dose",
+        "vietnamese": "liều"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 211,
+    "character": "齒",
+    "simplified": "齿",
+    "pinyin": "chǐ",
+    "english": "tooth",
+    "vietnamese": "răng",
+    "strokes": 15,
+    "frequency": "rare",
+    "icon": "Smile",
+    "writerChar": "齒",
+    "story": {
+      "en": "This radical pictures “tooth”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “răng”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "齿",
+        "pinyin": "chǐ",
+        "english": "tooth",
+        "vietnamese": "răng"
+      },
+      {
+        "character": "龄",
+        "pinyin": "líng",
+        "english": "age",
+        "vietnamese": "tuổi"
+      },
+      {
+        "character": "啮",
+        "pinyin": "niè",
+        "english": "gnaw",
+        "vietnamese": "gặm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 212,
+    "character": "龍",
+    "simplified": "龙",
+    "pinyin": "lóng",
+    "english": "dragon",
+    "vietnamese": "rồng",
+    "strokes": 16,
+    "frequency": "common",
+    "icon": "Sparkles",
+    "writerChar": "龍",
+    "story": {
+      "en": "The dragon: rain-bringer, emperor's emblem, the most auspicious of beasts.",
+      "vi": "Rồng: mang mưa, biểu tượng đế vương, linh thú cát tường nhất."
+    },
+    "examples": [
+      {
+        "character": "龙",
+        "pinyin": "lóng",
+        "english": "dragon",
+        "vietnamese": "rồng"
+      },
+      {
+        "character": "笼",
+        "pinyin": "lóng",
+        "english": "cage",
+        "vietnamese": "lồng"
+      },
+      {
+        "character": "聋",
+        "pinyin": "lóng",
+        "english": "deaf",
+        "vietnamese": "điếc"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 213,
+    "character": "龜",
+    "simplified": "龟",
+    "pinyin": "guī",
+    "english": "turtle",
+    "vietnamese": "rùa",
+    "strokes": 16,
+    "frequency": "rare",
+    "icon": "Turtle",
+    "writerChar": "龜",
+    "story": {
+      "en": "This radical pictures “turtle”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “rùa”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "龟",
+        "pinyin": "guī",
+        "english": "turtle",
+        "vietnamese": "rùa"
+      },
+      {
+        "character": "阄",
+        "pinyin": "jiū",
+        "english": "lot (draw)",
+        "vietnamese": "thăm"
+      }
+    ],
+    "illustration": null
+  },
+  {
+    "id": 214,
+    "character": "龠",
+    "pinyin": "yuè",
+    "english": "flute",
+    "vietnamese": "sáo",
+    "strokes": 17,
+    "frequency": "rare",
+    "icon": "Music2",
+    "writerChar": "龠",
+    "story": {
+      "en": "This radical pictures “flute”. Once you see it, related characters start to cluster in meaning.",
+      "vi": "Bộ thủ này vẽ “sáo”. Nhìn ra nó, các chữ cùng họ nghĩa sẽ hiện ra thành nhóm."
+    },
+    "examples": [
+      {
+        "character": "龠",
+        "pinyin": "yuè",
+        "english": "flute",
+        "vietnamese": "sáo"
+      },
+      {
+        "character": "钥",
+        "pinyin": "yào",
+        "english": "key",
+        "vietnamese": "chìa khóa"
+      }
+    ],
+    "illustration": null
+  }
+]

@@ -1,0 +1,176 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f3eee4;
+  --color-foreground: #1c1814;
+  --color-card: #faf6ee;
+  --color-card-foreground: #1c1814;
+  --color-popover: #faf6ee;
+  --color-popover-foreground: #1c1814;
+  --color-primary: #9b2c1f;
+  --color-primary-foreground: #faf6ee;
+  --color-secondary: #efe8dc;
+  --color-secondary-foreground: #1c1814;
+  --color-muted: #ebe4d6;
+  --color-muted-foreground: #5c554b;
+  --color-accent: #e8dfd0;
+  --color-accent-foreground: #1c1814;
+  --color-destructive: #9b2c1f;
+  --color-destructive-foreground: #faf6ee;
+  --color-border: #d9d0c0;
+  --color-input: #d9d0c0;
+  --color-ring: #9b2c1f;
+  --color-ink: #1c1814;
+  --color-paper: #f3eee4;
+  --color-seal: #9b2c1f;
+  --color-seal-soft: #c45c4a;
+
+  --radius-xs: 0.25rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius: 0.75rem;
+
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Noto Serif SC", "Noto Serif", "Songti SC", ui-serif, serif;
+  --font-hanzi: "Noto Serif SC", "Songti SC", "SimSun", serif;
+
+  --shadow-border:
+    0px 0px 0px 1px rgb(28 24 20 / 0.08),
+    0px 1px 2px -1px rgb(28 24 20 / 0.06),
+    0px 2px 4px 0px rgb(28 24 20 / 0.04);
+  --shadow-border-hover:
+    0px 0px 0px 1px rgb(28 24 20 / 0.12),
+    0px 4px 12px -2px rgb(28 24 20 / 0.08),
+    0px 2px 4px 0px rgb(28 24 20 / 0.04);
+}
+
+@layer base {
+  :root {
+    color-scheme: only light;
+    background-color: var(--color-background);
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    background-color: var(--color-background);
+    color-scheme: only light;
+  }
+
+  * {
+    border-color: var(--color-border);
+    -webkit-tap-highlight-color: color-mix(in oklab, var(--color-primary) 18%, transparent);
+  }
+
+  html,
+  body,
+  #app {
+    min-height: 100%;
+    min-height: 100dvh;
+    background-color: var(--color-background);
+  }
+
+  body {
+    margin: 0;
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    overscroll-behavior-y: none;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled),
+  a {
+    touch-action: manipulation;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  input,
+  textarea,
+  select {
+    font-size: 16px;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-primary) 22%, transparent);
+    color: var(--color-foreground);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.hanzi-glyph {
+  font-family: var(--font-hanzi);
+  font-feature-settings: "kern" 1;
+  line-height: 1;
+}
+
+/* Cream first, then a CSS-only grain. SVG feTurbulence backgrounds
+   paint black in WebKit / embedded previews when the filter fails. */
+.paper-grain {
+  background-color: var(--color-background);
+  background-image: radial-gradient(
+    color-mix(in oklab, var(--color-foreground) 7%, transparent) 0.7px,
+    transparent 0.7px
+  );
+  background-size: 6px 6px;
+}
+
+.chip-scroll {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+}
+.chip-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.writer-host {
+  touch-action: none;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.enter-fade {
+  animation: fade-up 400ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.stagger-1 { animation-delay: 40ms; }
+.stagger-2 { animation-delay: 80ms; }
+.stagger-3 { animation-delay: 120ms; }
+.stagger-4 { animation-delay: 160ms; }

@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Local caches
+.vite/
+.turbo/
+.cache/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local tooling
+.vercel/
+.grok/
+.artifacts/
+artifacts/
+attachments/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+
+# Test coverage
+coverage/
+
+# Local screenshots / generated artifacts
+screenshots/
