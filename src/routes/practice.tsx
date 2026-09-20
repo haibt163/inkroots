@@ -45,6 +45,7 @@ function buildRound(lang: "en" | "vi"): Question[] {
 function PracticePage() {
   const { lang, t } = useI18n();
   const [seed, setSeed] = useState(0);
+  // eslint-disable-next-line react-hooks/exhaustive-deps -- seed intentionally forces re-computation on "Play again"
   const questions = useMemo(() => buildRound(lang), [lang, seed]);
   const [index, setIndex] = useState(0);
   const [picked, setPicked] = useState<string | null>(null);

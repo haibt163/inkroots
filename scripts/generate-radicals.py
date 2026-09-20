@@ -2,6 +2,7 @@
 """Merge open Kangxi radical lists with bilingual stories, examples, and forms."""
 from __future__ import annotations
 
+import argparse
 import json
 from pathlib import Path
 
@@ -577,10 +578,15 @@ def frequency(i: int) -> str:
 
 
 def main() -> None:
-    gist_path = Path("/tmp/radicals-gist.json")
-    nicolas_path = Path("/tmp/radicals-nicolas.json")
-    gist = json.loads(gist_path.read_text()) if gist_path.exists() else []
-    nicolas = json.loads(nicolas_path.read_text()) if nicolas_path.exists() else {}
+    ap = argparse.ArgumentParser(description=__doc__ or "Generate radicals.json")
+    ap.add_argument("--gist", default=None, help="Path to optional gist provenance JSON")
+    ap.add_argument("--nicolas", default=None, help="Path to optional Nicolas provenance JSON")
+    args = ap.parse_args()
+
+    gist_path = Path(args.gist) if args.gist else None
+    nicolas_path = Path(args.nicolas) if args.nicolas else None
+    gist = json.loads(gist_path.read_text()) if gist_path and gist_path.exists() else []
+    nicolas = json.loads(nicolas_path.read_text()) if nicolas_path and nicolas_path.exists() else {}
     gist_by_id = {int(r["id"]): r for r in gist}
 
     out = []
@@ -626,7 +632,7 @@ def main() -> None:
             del item["variant"]
         out.append(item)
 
-    dest = Path("/workspace/src/data/radicals.json")
+    dest = Path(__file__).resolve().parent.parent / "src" / "data" / "radicals.json"
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
