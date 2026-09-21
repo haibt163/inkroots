@@ -155,10 +155,12 @@ npm test
 npm run typecheck
 npm run lint
 npm run build
+```
 
 For dataset changes:
 
 node scripts/validate-radicals.mjs
+```
 
 Tests must test real behavior.
 
@@ -191,13 +193,16 @@ Do not create a pull request or merge one unless explicitly requested.
 
 Before committing:
 
+```text
 git status
 git diff
+```
 
 After committing:
 
 git status
 git log --oneline --decorate -3
+```
 
 Keep commits focused and descriptive.
 

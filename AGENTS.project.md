@@ -176,6 +176,7 @@ local stroke data
 CDN fallback where currently implemented
       ↓
 static glyph fallback
+```
 
 The local corpus is generated/maintained using:
 
@@ -204,7 +205,9 @@ critical violations cause a non-zero exit status
 
 The validator must remain standalone and runnable with:
 
+```text
 node scripts/validate-radicals.mjs
+```
 
 Tests should cover meaningful failure cases where practical.
 
@@ -230,11 +233,13 @@ Do not expand the CR into these areas without explicit authorization.
 
 Before declaring the CR complete:
 
+```text
 npm test
 npm run typecheck
 npm run lint
 npm run build
 node scripts/validate-radicals.mjs
+```
 
 If a command fails, investigate the actual failure.
 
@@ -256,7 +261,9 @@ Keep the CR commit focused.
 
 Preferred commit style:
 
+```text
 Validate local stroke-data corpus
+```
 
 or an equivalent concise description.
 

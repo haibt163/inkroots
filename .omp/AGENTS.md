@@ -44,6 +44,7 @@ Agents working on the current engineering project operate on laguna.
 Never use main as a scratch branch.
 
 Never reset main to make a local test convenient.
+```
 
 3. Inspect Before Implementing
 
@@ -101,6 +102,7 @@ Prefer tests that can demonstrate both:
 
 valid state → passes
 invalid state → fails
+```
 
 Do not create tests that merely inspect source-code strings unless that is the
 actual behavior being tested.
@@ -123,13 +125,16 @@ Agents may prepare a commit when explicitly authorized by the user.
 
 Before commit:
 
+```text
 git status
 git diff
+```
 
 After commit:
 
 git status
 git log --oneline --decorate -3
+```
 
 Never force-push.
 

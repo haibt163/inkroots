@@ -63,6 +63,8 @@ every expected JSON exists
 every expected JSON parses
     ↓
 no unexpected JSON files
+```
+
 Critical violations must produce a non-zero exit status.
 
 Do not expand CR-2 into:
@@ -79,11 +81,13 @@ Required Verification
 
 For CR-2:
 
+```text
 node scripts/validate-radicals.mjs
 npm test
 npm run typecheck
 npm run lint
 npm run build
+```
 
 If any command fails, investigate and report the actual result.
 
@@ -91,12 +95,16 @@ Git Completion
 
 Before commit:
 
+```text
 git status
 git diff
+```
 
 After commit:
 
 git status
 git log --oneline --decorate -3
+```
 
 Keep the CR commit focused.
+```
