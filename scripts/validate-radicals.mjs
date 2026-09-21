@@ -8,13 +8,17 @@
  * This script is intentionally standalone (no project dependencies)
  * so it can run in CI or on any machine with Node.js 20+.
  */
-import { readFile } from "node:fs/promises";
-import { join, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
+import { realpathSync } from "node:fs";
+import { readFile, readdir } from "node:fs/promises";
+import { join, dirname, relative } from "node:path";
+import { fileURLToPath, pathToFileURL } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const projectRoot = join(__dirname, "..");
+const DEFAULT_PROJECT_ROOT = join(__dirname, "..");
+const validatorArgs = parseValidatorArgs(process.argv.slice(2));
+const projectRoot = validatorArgs.root ?? DEFAULT_PROJECT_ROOT;
 const RADICALS_PATH = join(projectRoot, "src/data/radicals.json");
+const STROKE_DATA_REL_PATH = "public/stroke-data";
 
 /** @typedef {'core' | 'common' | 'rare'} Frequency */
 
@@ -65,12 +69,146 @@ function isNonEmptyString(val) {
   return typeof val === "string" && val.trim().length > 0;
 }
 
-/**
- * @param {unknown} val
- * @returns {val is number}
- */
 function isPositiveInteger(val) {
   return typeof val === "number" && Number.isInteger(val) && val > 0;
+}
+
+/**
+ * The runtime requests an encoded URL, while static servers decode that URL
+ * before resolving the filename. The on-disk corpus therefore uses the literal
+ * writerChar in each filename.
+ *
+ * @param {string} writerChar
+ * @returns {string}
+ */
+export function strokeDataFilename(writerChar) {
+  return `${writerChar}.json`;
+}
+
+/**
+ * @param {string} filename
+ * @returns {boolean}
+ */
+function isSafeStrokeDataFilename(filename) {
+  return (
+    filename !== "." &&
+    filename !== ".." &&
+    !filename.includes("/") &&
+    !filename.includes("\\") &&
+    !filename.includes("\0")
+  );
+}
+
+/**
+ * @param {unknown[]} data
+ * @returns {Set<string>}
+ */
+export function expectedStrokeDataFiles(data) {
+  const expected = new Set();
+  for (const record of data) {
+    const writerChar = record?.writerChar;
+    if (!isNonEmptyString(writerChar) || writerChar.length !== 1) continue;
+    const filename = strokeDataFilename(writerChar);
+    if (isSafeStrokeDataFilename(filename)) expected.add(filename);
+  }
+  return expected;
+}
+
+/**
+ * @param {string} directory
+ * @param {string} baseDirectory
+ * @returns {Promise<Map<string, string>>}
+ */
+async function collectJsonFiles(directory, baseDirectory) {
+  const files = new Map();
+  const entries = await readdir(directory, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const entryPath = join(directory, entry.name);
+    if (entry.isDirectory()) {
+      const nested = await collectJsonFiles(entryPath, baseDirectory);
+      for (const [relativePath, filePath] of nested) {
+        files.set(relativePath, filePath);
+      }
+    } else if (entry.isFile() && entry.name.endsWith(".json")) {
+      const relativePath = relative(baseDirectory, entryPath).split(/[\\/]/).join("/");
+      files.set(relativePath, entryPath);
+    }
+  }
+
+  return files;
+}
+
+/**
+ * Validate the local corpus without changing the structural dataset checks.
+ *
+ * @param {object} options
+ * @param {string} options.projectRoot
+ * @param {unknown[]} options.data
+ * @param {(message: string) => void} options.fail
+ * @returns {Promise<void>}
+ */
+export async function validateStrokeDataCorpus({ projectRoot, data, fail }) {
+  const strokeDataDir = join(projectRoot, STROKE_DATA_REL_PATH);
+  try {
+    // A readdir here doubles as the directory-existence / not-a-file check;
+    // collectJsonFiles below performs the real enumeration.
+    await readdir(strokeDataDir, { withFileTypes: true });
+  } catch (e) {
+    if (e.code === "ENOENT") {
+      fail(`Stroke-data directory is missing: ${STROKE_DATA_REL_PATH}`);
+    } else if (e.code === "ENOTDIR") {
+      fail(`Stroke-data path is not a directory: ${STROKE_DATA_REL_PATH}`);
+    } else {
+      fail(`Cannot inspect stroke-data directory: ${e.message}`);
+    }
+    return;
+  }
+
+  // Keep the initial listing above as the directory-type check, then recurse
+  // so stray JSON files cannot hide in a nested corpus directory.
+  const actualFiles = await collectJsonFiles(strokeDataDir, strokeDataDir);
+  const expectedFiles = expectedStrokeDataFiles(data);
+  const missingFiles = [...expectedFiles]
+    .filter((filename) => !actualFiles.has(filename))
+    .sort();
+  const unexpectedFiles = [...actualFiles.keys()]
+    .filter((filename) => !expectedFiles.has(filename))
+    .sort();
+
+  for (const filename of missingFiles) {
+    fail(`Missing local stroke-data file: ${STROKE_DATA_REL_PATH}/${filename}`);
+  }
+  for (const filename of unexpectedFiles) {
+    fail(`Unexpected local stroke-data file: ${STROKE_DATA_REL_PATH}/${filename}`);
+  }
+
+  let invalidCount = 0;
+  for (const filename of expectedFiles) {
+    const filePath = actualFiles.get(filename);
+    if (!filePath) continue;
+    let raw;
+    try {
+      raw = await readFile(filePath, "utf-8");
+    } catch (e) {
+      invalidCount++;
+      fail(`Cannot read local stroke-data file: ${STROKE_DATA_REL_PATH}/${filename}: ${e.message}`);
+      continue;
+    }
+
+    try {
+      JSON.parse(raw);
+    } catch (e) {
+      invalidCount++;
+      fail(`Invalid JSON in ${STROKE_DATA_REL_PATH}/${filename}: ${e.message}`);
+    }
+  }
+
+  if (missingFiles.length === 0 && unexpectedFiles.length === 0 && invalidCount === 0) {
+    console.log(
+      `  OK: Local stroke-data corpus matches ${expectedFiles.size} unique writerChar values`,
+    );
+  }
 }
 
 async function main() {
@@ -300,6 +438,9 @@ async function main() {
   } else {
     pass("All icons are non-empty strings");
   }
+  // --- Local stroke-data corpus ---
+  console.log("\n[14] Local stroke-data corpus");
+  await validateStrokeDataCorpus({ projectRoot, data, fail });
 
   // --- Summary ---
   console.log("\n===========================================");
@@ -316,8 +457,72 @@ async function main() {
     process.exit(0);
   }
 }
+/**
+ * @param {string[]} argv
+ * @returns {{ root: string | null, error?: string }}
+ */
+export function parseValidatorArgs(argv) {
+  const usage =
+    "usage: node scripts/validate-radicals.mjs [--root <dir>]";
+  const args = { root: null };
+  for (let i = 0; i < argv.length; i += 1) {
+    if (argv[i] === "--root") {
+      args.root = argv[i + 1];
+      if (args.root === undefined) {
+        args.error = `--root needs a directory — ${usage}`;
+      }
+      i += 1;
+    } else {
+      args.error = `unexpected argument: ${argv[i]} — ${usage}`;
+      break;
+    }
+  }
+  return args;
+}
+/**
+ * Run only the local stroke-data corpus gate against a project root, reading
+ * the radical dataset itself so tests can point at a fixture without
+ * duplicating the dataset checks.
+ *
+ * @param {{ projectRoot?: string, data?: unknown[] }} [options]
+ * @returns {Promise<{ errors: string[]; warnings: string[] }>}
+ */
+export async function validateProject({
+  projectRoot = DEFAULT_PROJECT_ROOT,
+  data,
+} = {}) {
+  const errors = [];
+  const dataset =
+    data ?? JSON.parse(await readFile(join(projectRoot, "src/data/radicals.json"), "utf-8"));
+  await validateStrokeDataCorpus({
+    projectRoot,
+    data: dataset,
+    fail: (message) => {
+      errors.push(message);
+    },
+  });
+  return { errors, warnings: [] };
+}
 
-main().catch((e) => {
-  console.error("Fatal error:", e);
-  process.exit(1);
-});
+function isMainModule(moduleUrl) {
+  const entry = process.argv[1];
+  if (!entry) return false;
+  try {
+    return realpathSync(entry) === fileURLToPath(moduleUrl);
+  } catch {
+    return import.meta.url === pathToFileURL(entry).href;
+  }
+}
+
+if (isMainModule(import.meta.url)) {
+  const args = parseValidatorArgs(process.argv.slice(2));
+  if (args.error) {
+    console.error(args.error);
+    process.exitCode = 1;
+  } else {
+    main().catch((e) => {
+      console.error("Fatal error:", e);
+      process.exitCode = 1;
+    });
+  }
+}
