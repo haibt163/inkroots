@@ -102,9 +102,9 @@ git diff
 
 After commit:
 
+```text
 git status
 git log --oneline --decorate -3
 ```
 
 Keep the CR commit focused.
-```
