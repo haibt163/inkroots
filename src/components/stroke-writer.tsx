@@ -63,15 +63,25 @@ export function StrokeWriter({
             delayBetweenStrokes: 140,
             showCharacter: false,
             charDataLoader: (c, onComplete, onError) => {
-              fetch(
-                `https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0.1/${encodeURIComponent(c)}.json`,
-              )
+              const localUrl = `/stroke-data/${encodeURIComponent(c)}.json`;
+              fetch(localUrl)
                 .then((res) => {
-                  if (!res.ok) throw new Error("missing");
+                  if (!res.ok) throw new Error("local-missing");
                   return res.json();
                 })
                 .then(onComplete)
-                .catch(onError);
+                .catch(() => {
+                  // Fallback to CDN if local stroke data is unavailable
+                  fetch(
+                    `https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0.1/${encodeURIComponent(c)}.json`,
+                  )
+                    .then((res) => {
+                      if (!res.ok) throw new Error("cdn-missing");
+                      return res.json();
+                    })
+                    .then(onComplete)
+                    .catch(onError);
+              });
             },
             onLoadCharDataSuccess: () => resolve(true),
             onLoadCharDataError: () => resolve(false),
